@@ -12,7 +12,7 @@ They help *maintaining security* as you do not have to reveal the full path to y
 
 ```$PUIdata```
 
-on my computer that is /User/fbianco/PUIdata. But you do not have a /User/fbianco on your computer, you have a /User/<yourname> . However, if my code refers to $PUIdata and you have defined a place
+on my computer: the PUIdata environmental variable "stands for" /User/fbianco/PUIdata. (note that the $ is not part of the name but a way to tell terminal that I am referring to the environmental variable PUIdata as opposed to just the series of letters PUIdata) But you do not have a /User/fbianco on your computer, you have a /User/<yourname> . However, if my code refers to $PUIdata and you have defined a place
   
 ```export PUIdata="/User/<myname>/PUIdata"``` which contains the same datasets you can use my code without modifying it if my code used PUIdata instead of the extended path.
 
