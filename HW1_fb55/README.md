@@ -1,4 +1,4 @@
-# PUI 2017 HW 1
+# PUI 2018 HW 1
 
 **On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.**
 
@@ -9,7 +9,7 @@
 ## Assignment 1: Finish Lab 1
 
 Finish the lab started in the first lab session:
-https://github.com/fedhere/PUI2017_fb55/Lab1_fb55
+https://github.com/fedhere/PUI2018_fb55/Lab1_fb55
 
 If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_\<your net id\>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
 
@@ -39,16 +39,16 @@ This may be hard, but figuring it out will greatly help you get the most out of 
 
 - run: the TA must be able to download your notebook and run it without error. 
 
-Create a notebook of your own following the steps outlined in [this notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb)
+Create a notebook of your own following the steps outlined in [this notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb)
 
 To get the scheleton notebook you can clone my repository, fork my repository, or do it manually as follows:
 
-1) On the terminal (bash shell) go to the PUI2017_<NYUid> directory you created in Assignment 2 and set up as a repo in the lab/Assignment 1.
+1) On the terminal (bash shell) go to the PUI2018_<NYUid> directory you created in Assignment 2 and set up as a repo in the lab/Assignment 1.
 
 2) Download the notebook I created (link above). To do so **click on Raw** next to the notebook. 
 Now you have 2 choices: you can copy and paste the RAW ipython notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_reproducible_distributions.ipynb) or you can use the wget command on the terminal: typing 
 ```
-wget https://raw.githubusercontent.com/fedhere/PUI2016_fb55/master/HW1_fb55/HW1_3_fb55.ipynb?token=ABnkhiKFUXlZp9NtNLMICRtVcjW0qRA0ks5Zwdl-wA%3D%3D
+wget https://raw.githubusercontent.com/fedhere/PUI2018_fb55/master/HW1_fb55/HW1_3_fb55.ipynb?token=ABnkhiKFUXlZp9NtNLMICRtVcjW0qRA0ks5Zwdl-wA%3D%3D
 ```
 will save a version of the notebook in the directory where you were when you typed the command. **wget**, which stands for web get, downloads any files, or even entire directories, from a web URL.
 
