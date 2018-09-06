@@ -12,7 +12,7 @@ follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PU
 
 GRADING: 
 
-We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc/.bash_profile, and that running the commands takes you to the right directory.
+We will grade you based on blackboard submittion of your screenshots
 
 ## Assignment 2:  Reproducible research.
 
