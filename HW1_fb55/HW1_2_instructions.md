@@ -24,6 +24,12 @@ To access your terminal on a mac you can use *command+space* and type terminal
 
 To access your terminal on the CUSP ADRF follow [these instructions](http://cusp.adrf.cloud/terminal)
 
+The easiest solution is to use the browser on the ADRF or on the ucsl docker. Once you see the browser open a terminal 
+
+![Alt text](screenShots/terminal.png)
+    
+and add the line that defines the environmental variable (same like you typed in the shell earlier)
+
 For relevant *bash* commands see this [cheat sheet](https://github.com/fedhere/UInotebooks/blob/master/BashCommands.md), (mine and Mohit's slides) [https://github.com/fedhere/UInotebooks/blob/master/slides2018/UI1_PUI2018.pdf], [this slide deck](https://speakerdeck.com/62gerente/bash-introduction).
 
 **Set up your environment:**
@@ -49,11 +55,15 @@ Note that by convention environmental variables' names are all caps.
 
 This sets up an environmental variable for the current sessions only: if you close this terminal your variable will be lost. To save an environmental variable *permanently* you want to write the same line of code in a file, specifically the on  ~/.bashrc (linux) or ~/.bash_profile (OS X) so that every time you open a new terminal that terminal and any processes started there (e.g. a python script or jupyter notebook) know what the $PUI2018 environmental variable is set to (the ~ in ~/.bashrc means your home directory. The file name is just .bashrc, but you need the full path to access the .bashrc/.bash_profile file in your home directory. You must edit the .bashrc and file that is in your home directory for this to work! This is because the .bashrc file in your home directory is read by any terminal you start when you start it, while a local .bashrc file would not be.) 
 
-You can use any editor you like. The easiest solution is to use the browser on the ADRF or on the ucsl docker. Once you see the browser open a terminal 
+You can use any editor you like. For example on the ADRF and likely on your mac you can use nano: on the terminal type 
 
-![Alt text](screenShots/terminal.png)
-    
-and add the line that defines the environmental variable (same like you typed in the shell earlier)
+```nano .bashrc```
+
+**WARNING: there are important lined of code in the file that you just opened! do not touch any of the content you find, scroll all the way to the bottom and add your lines of code there**
+
+it should look something like this
+
+![Alt text](screenShots/terminal2.png)
 
 
 Now create an *alias* such that typing 
