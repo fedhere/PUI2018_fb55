@@ -47,7 +47,7 @@ This sets up an environmental variable for the current sessions only: if you clo
 
 You can use any editor you like. The easiest solution is to use the browser on the ADRF or on the ucsl docker. Once you see the browser open a terminal 
 
-![Alt text](terminal.png)
+![Alt text](screenShots/terminal.png)
     
 and add the line that defines the environmental variable (same like you typed in the shell earlier)
 
