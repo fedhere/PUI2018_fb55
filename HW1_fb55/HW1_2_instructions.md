@@ -33,7 +33,7 @@ For relevant *bash* commands see this [cheat sheet](https://github.com/fedhere/U
 to create a folder use the *mkdir* command (refer to the [cheat sheet](https://github.com/fedhere/UInotebooks/blob/master/BashCommands.md)) or Mohit's slides.
 
 
-2. create an environmental variable PUI2018 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac etc. You can retrieve that path by getting into the folder you just created with the command *cd*  - which stands for "change directory" - and then type *pwd* - which stands for "present working directory"). Once your env variable is set up typing on the terminal:
+2. create an environmental variable PUI2018 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac etc. You can retrieve that path by getting into the folder you just created with the command *cd* , which stands for "change directory",  and then type *pwd* , which stands for "present working directory"). Once your env variable is set up typing on the terminal:
 
 ```
 echo $PUI2018
