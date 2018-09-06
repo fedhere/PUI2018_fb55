@@ -23,7 +23,7 @@ On your classmate repo we need to see your merge request.
 
 ## Assignment 2: Set up your environment:
 
-follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
+follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
 
 GRADING: 
 
