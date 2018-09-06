@@ -2,6 +2,13 @@
 
 Environmental variables define values that are known by any application/software in your environment (including python, editors, etc). Think about them as a shortcut that everyone knows.
 
+To access your terminal on a mac you can use command space and type terminal
+
+To access your terminal on the docker follow Mr. Sharma's instructions
+
+To access your terminal on the ADRF follow these instructions http://cusp.adrf.cloud/terminal
+
+
 **Set up your environment:**
 
 1. create a directory on your computer or on your workspace on CUSP compute called PUI2018. 
