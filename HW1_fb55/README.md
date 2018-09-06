@@ -6,22 +6,7 @@
 
 [What is the question? Jeff Leek & Roger D. Peng](https://www.d.umn.edu/~kgilbert/ened5560-1/The%20Research%20Question-2015-Leek-1314-5.pdf)
 
-## Assignment 1: Finish Lab 1
-
-Finish the lab started in the first lab session:
-https://github.com/fedhere/PUI2018_fb55/Lab1_fb55
-
-If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_\<your net id\>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
-
-
-GRADING: 
-
-On your github account we must be able to see :
-- your own repo, and in its history we need to see the merge. 
-- your fork of your class mate repo and the changes you made to their file in its history
-On your classmate repo we need to see your merge request.
-
-## Assignment 2: Set up your environment:
+## Assignment 1: Set up your environment:
 
 follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
 
@@ -29,7 +14,7 @@ GRADING:
 
 We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc/.bash_profile, and that running the commands takes you to the right directory.
 
-## Assignment 3:  Reproducible research.
+## Assignment 2:  Reproducible research.
 
 **EXTRA CREDIT**
 
