@@ -93,13 +93,10 @@ types of scientific questions
 
 reproducible research
 
-PEP8 and style standards 
-
-work with github 
-
 basic bash commands
 
+understanding what is an environment (and a docker, virtual envuronment, virtual machine etc)
 understand how to setup your environment
 
-creating and checking into github an ipython notebook
+
 
