@@ -21,7 +21,7 @@ To access your terminal on the docker follow Mr. Sharma's instructions
 
 To access your terminal on the ADRF follow these instructions http://cusp.adrf.cloud/terminal
 
-For relevant bash commands see (this slide deck)[https://speakerdeck.com/62gerente/bash-introduction]
+For relevant bash commands see [this slide deck](https://speakerdeck.com/62gerente/bash-introduction)
 and this (cheat sheet)[https://github.com/fedhere/UInotebooks/blob/master/BashCommands.md]
 
 **Set up your environment:**
