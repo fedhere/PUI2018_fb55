@@ -1,6 +1,19 @@
 # Assignment 2: 
 
-Environmental variables define values that are known by any application/software in your environment (including python, editors, etc). Think about them as a shortcut that everyone knows.
+CONTEXT:
+
+*Environmental variables* define values that are known by any application/software in your environment (including python, editors, etc). Think about them as a shortcut that everyone knows.
+
+*Aliases* are similar to environmental variables, but are executables: instead of being a shortcut to a variable (which could be a location on our computer as it is the case in this eercise)  it is a shortcut to a command
+
+The help maintaining security as you do not have to reveal the full path to your data or code to use it, and they facilitate collaboration cause two people can work on a project on their machine, refer to the same variable, and have it associated to a different path, unique to the user. As long as we agree on what the env variables are defined to be. For example: I can define a place for the data to be used in PUI class as 
+
+```$PUIdata```
+
+on my computer that is /User/fbianco/PUIdata. But you do not have a /User/fbianco on your computer, you have a /User/<yourname> . However, if my code refers to $PUIdata and you have defined a place
+  
+```export PUIdata="/User/<myname>/PUIdata"``` which contains the same datasets you can use my code without modifying it.
+
 
 To access your terminal on a mac you can use command space and type terminal
 
@@ -8,6 +21,8 @@ To access your terminal on the docker follow Mr. Sharma's instructions
 
 To access your terminal on the ADRF follow these instructions http://cusp.adrf.cloud/terminal
 
+For relevant bash commands see (this slide deck)[https://speakerdeck.com/62gerente/bash-introduction]
+and this (cheat sheet)[https://github.com/fedhere/UInotebooks/blob/master/BashCommands.md]
 
 **Set up your environment:**
 
