@@ -16,7 +16,7 @@ on my computer: the PUIdata environmental variable "stands for" /User/fbianco/PU
   
 ```export PUIdata="/User/<user_name>/PUIdata"``` which contains the same datasets you can use my code without modifying it if my code used PUIdata instead of the extended path.
 
-**access a bash terminal**
+**Access a bash terminal**
 
 To access your terminal on the docker follow Mr. Sharma's instructions
 
@@ -28,7 +28,7 @@ For relevant *bash* commands see this [cheat sheet](https://github.com/fedhere/U
 
 **Set up your environment:**
 
-1. create a directory on your computer or on your workspace on CUSP compute called PUI2018. 
+1. create a directory on your computer or on your workspace on the CUSP ADRF called PUI2018. 
 
 to create a folder use the *mkdir* command (refer to the [cheat sheet](https://github.com/fedhere/UInotebooks/blob/master/BashCommands.md)) or Mohit's slides.
 
