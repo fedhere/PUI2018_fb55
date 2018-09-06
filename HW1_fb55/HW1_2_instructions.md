@@ -1,6 +1,6 @@
 # Assignment 2: 
 
-* Note: you do not have to do this on the docker. You can do this on ANY *bash* terminal you have access to. If you have a mac or linux your native terminal should be set to *bash*. If you have set up the docker the terminal you get from the docker on the browser is a *bash* terminal. If you are on the ADRF you have access to a *bash* terminal on the jupyter lab. Instructions follow to access these terminals.
+* Note: you do not have to do this on the docker. You can do this on ANY *bash* terminal you have access to. If you have a mac or linux your native terminal should be set to *bash*. If you have set up the docker the terminal you get from the docker on the browser is a *bash* terminal. If you are on the ADRF you have access to a *bash* terminal on the jupyter hub. Instructions follow to access these terminals.
 
 CONTEXT:
 
