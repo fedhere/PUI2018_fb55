@@ -77,7 +77,7 @@ takes you to that directory. Aliases are shorcuts to commands (hint: the alias y
 The syntax to create an alias is similar to that for an env variable:
 
 ```alias alias_name="<alias command>" ```
-Now take a screenshot of your .bashrc/.bash_profile file where one can see the alias and env. variable you created. This will be part of your deliverable for this week homework.
+Now take a screenshot of your .bashrc ot .bash_profile file where one can see the alias and env. variable you created. *This will be part of your deliverable for this week homework.* Upload the screenshot on blackboard
 
 Before you proceed you need your terminal to read the new version of the file as you modified it and store the new env variable and alias (again, from now on any new terminal will do this automatically at start, but this terminal was already started.)
 
@@ -98,12 +98,7 @@ pui2018
 
 pwd
 ```
-Take a screenshot of your terminal that shows this series of commands and their output. 
-
-NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it: 
-```
-source .bashrc 
-```
+Take a screenshot of your terminal that shows this series of commands and their output. Upload the screenshot on blackboard
 
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
 
