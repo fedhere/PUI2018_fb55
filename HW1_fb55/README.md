@@ -39,12 +39,7 @@ will save a version of the notebook in the directory where you were when you typ
 
 3) Fill in the code cells that I left empty following the directions.
 
-4) Once the notebook is done and rendered (you see the plots at the end of it) “stage it” so that git can track it (hint: follow the procedure in the lab assignment and use git add and git commit)
-
-5) link the current directory to your new github repo which you created in assignment 2 (PUI2015_<firstinitialandlastname> on your github account). (hint: just like in the lab assignment use git remote add origin and git push -u as in the image on the right, but using the URL of your new repo of course)
-
-6) push the notebook into the github repo and check that it renders ok. remember to check that it runs ok as well: before you commit open a new instance of ipython notebook (or restart your kernel!) and go through the notebook cell by cell to assure that there are no problems
-
+4) Once the notebook is done and rendered submit it through NYUclasses
 
 
 
