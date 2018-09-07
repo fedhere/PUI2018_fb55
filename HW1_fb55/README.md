@@ -30,10 +30,10 @@ To get the scheleton notebook you can clone my repository, fork my repository, o
 
 1) On the terminal (bash shell) go to the PUI2018_<NYUid> directory you created in Assignment 2 and set up as a repo in the lab/Assignment 1.
 
-2) Download the notebook I created (link above). To do so **click on Raw** next to the notebook. 
+2) Download the notebook I created (link above). There are several ways ot do this, including  **click on Raw** next to the notebook. 
 Now you have 2 choices: you can copy and paste the RAW ipython notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_reproducible_distributions.ipynb) or you can use the wget command on the terminal: typing 
 ```
-wget https://raw.githubusercontent.com/fedhere/PUI2018_fb55/master/HW1_fb55/HW1_3_fb55.ipynb?token=ABnkhiKFUXlZp9NtNLMICRtVcjW0qRA0ks5Zwdl-wA%3D%3D
+wget https://raw.githubusercontent.com/fedhere/PUI2018_fb55/master/HW1_fb55/HW1_3_instructions.ipynb
 ```
 will save a version of the notebook in the directory where you were when you typed the command. **wget**, which stands for web get, downloads any files, or even entire directories, from a web URL.
 
