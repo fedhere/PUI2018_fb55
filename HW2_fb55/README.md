@@ -30,7 +30,7 @@ Your repository should automatically show the images
 ![Alt text](../HW1_fb55/screenShots/setup_env.png)
 ![Alt text](../HW1_fb55/screenShots/fbianco_bash.png)
 
-My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2017 (yours should be 2018).
+My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2015 and/or PUI2017 (yours should be 2018).
 
 
 Grading: each one of you should have the repository PUI2018_\<your user name\> with a HW1_\<fb55\> directory in it with the readme file displaying your bash setup
