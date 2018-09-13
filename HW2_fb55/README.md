@@ -11,7 +11,7 @@ If you were able to follow along you should have a repository set up on your loc
 
 ## Reading:
 
-[What does research reproducibility mean?Steven N. Goodman*, Daniele Fanelli and John P. A. Ioannidis](http://stm.sciencemag.org/content/8/341/341ps12 )
+[What does research reproducibility mean? Steven N. Goodman*, Daniele Fanelli and John P. A. Ioannidis](http://stm.sciencemag.org/content/8/341/341ps12 )
 
 
 
