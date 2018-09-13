@@ -26,7 +26,7 @@ Your repository should automatically show the images
 
 our repository should automatically show the images 
 
-![Alt text](screenShots/setup_env.png)
+![Alt text](../HW1_fb55/screenShots/setup_env.png)
 ![Alt text](screenShots/fbianco_bash.png)
 
 My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2017.
