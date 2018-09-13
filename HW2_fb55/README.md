@@ -24,10 +24,20 @@ Now modify your README.md file: edit the copy on your machine to have it describ
 
 Your repository should automatically show the images
 
+our repository should automatically show the images 
+
+![Alt text](screenShots/setup_env.png)
+![Alt text](screenShots/fbianco_bash.png)
+
+My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2017.
+
+
+
 My bash_profile is complicated. Yours will likely be shorter and simpler. But in mine you should be able to spot the export line and the alias line for PUI2017.
 Create  README file in it
 
 Grading: each one of you should have the repository PUI2018_\<your user name\> with a HW1_\<fb55\> directory in it with the readme file displaying your bash setup
+
 
 
 ## Reading:
