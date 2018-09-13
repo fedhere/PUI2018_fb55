@@ -1,6 +1,5 @@
 # PUI 2018 HW 1
 
-**On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.**
 
 ## Reading:
 
