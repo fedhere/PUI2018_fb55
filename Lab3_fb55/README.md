@@ -21,3 +21,5 @@
 ![screen shot](ls.png)
 
 and that there is no longet a test.csv file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
+
+![screen shot](repo_history.png)
