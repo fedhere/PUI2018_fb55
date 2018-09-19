@@ -1,6 +1,6 @@
 # remove sensitive files from repos
 
-1. Create a file in this repo called test.csv - the content should be a few lines of text following the csv syntax, for example
+1. Create a file in this repo called _test.csv_ - the content should be a few lines of text following the csv syntax, for example
 
     a,b,c
     Hello,World,!
@@ -16,10 +16,6 @@
 
 ![screen shot](commands.png)
 
-5. make sure the file was removed from your local: type ls inside of Lab3_fb55 and take a screenshot of the result (like below) - test.csv should no longer ber there. 
-
-![screen shot](ls.png)
-
-and that there is no longet a test.csv file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
+5. make sure the file was removed from your local: type ls inside of Lab3_fb55 and take a screenshot of the result (like below) - test.csv should no longer ber there. and that there is no longer a _test.csv_ file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
 
 ![screen shot](repo_history.png)
