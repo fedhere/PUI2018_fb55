@@ -10,4 +10,14 @@
 
 ![screen shot](test.csv.png)
 
-3. 
+3. go to a terminal where you have a clone of the PUI2018 repository and pull the changes, so that you have the test.csv file locally. 
+
+4. type the commands that allow you to remove the file AND ITS HISTORY from the repo. See the screenshot below and type the commands
+
+![screen shot](commands.png)
+
+5. make sure the file was removed from your local: type ls inside of Lab3_fb55 and take a screenshot of the result (like below) - test.csv should no longer ber there. 
+
+![screen shot](ls.png)
+
+and that there is no longet a test.csv file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
