@@ -9,7 +9,7 @@
     ```
   
 
-2. commit this file to your repo and take a repo screen shot and a screenshot of the folder _Lab3_fb55_'s history
+2. commit this file to your repo and take a repo screen shot and a screenshot of the folder _HW3_fb55_'s history
 
 ![screen shot](imgs/test.csv.png)
 ![screen shot](imgs/history.png)
@@ -20,6 +20,6 @@
 
 ![screen shot](imgs/commands.png)
 
-5. make sure the file was removed from your local: type ls inside of Lab3_fb55 and take a screenshot of the result (like below) - test.csv should no longer ber there. and that there is no longer a _test.csv_ file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
+5. make sure the file was removed from your local: type ls inside of _HW3_fb55_ and take a screenshot of the result (like below) - test.csv should no longer ber there. and that there is no longer a _test.csv_ file in your remote repo. When the graded looks at the repo they should not find the file or its history at all!
 
 ![screen shot](imgs/repo_history.png)
