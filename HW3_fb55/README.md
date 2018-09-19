@@ -10,7 +10,7 @@
 
 ## ASSIGNMENTS:
 
-Part 1: perform Lab3_fb55 as a homework
+### Part 1: perform Lab3_fb55 as a homework
 
 ## Deliverable: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
 
