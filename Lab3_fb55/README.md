@@ -1,14 +1,18 @@
 # remove sensitive files from repos
 
-1. Create a file in this repo called _test.csv_ - the content should be a few lines of text following the csv syntax, for example
+1. Create a file in this repo inside of the folder _Lab3_fb55_ called _test.csv_ - the content should be a few lines of text following the csv syntax, for example
 
+    ```
     a,b,c
+    
     Hello,World,!
+    ```
   
 
-2. commit this file to your repo and take a repo screen shot
+2. commit this file to your repo and take a repo screen shot and a screenshot of the folder _Lab3_fb55_'s history
 
 ![screen shot](test.csv.png)
+![screen shot](history.png)
 
 3. go to a terminal where you have a clone of the PUI2018 repository and pull the changes, so that you have the test.csv file locally. 
 
