@@ -50,7 +50,7 @@ Grading: turn in the screenshot in your repo README.md and make sure your HW3_fb
 
 Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/)) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file directly read it in with pandas 
 ```
-pd.read_csv(_url_). 
+pd.read_csv(url). 
 ```
 If it is a zipped file (.zip or .gz or similar) download the zip and unpack it in $PUIDATA, then read it in with pandas 
 ```
