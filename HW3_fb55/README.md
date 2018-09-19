@@ -12,7 +12,6 @@
 
 ### Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo
 
-Deliverable: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
 
 ### Part 2: Choose a CSV file from [NYC Open Data](https://opendata.cityofnewyork.us/) and use pandas to read the file and mangle the data within it.
 
@@ -43,6 +42,53 @@ shorter periods. It is a good idea to download a copy of the response to your
 local machine for testing purposes. Also make sure to open it in an editor to
 familiarize yourself with all the fields of the response.
 
+# Assignment 1: follow te instructions
+
+Grading: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
+
+# Assignment 2: Read CSV files with pandas
+
+Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/)) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file directly read it in with pandas 
+```pd.read_csv(_url_). 
+```
+If it is a zipped file (.zip or .gz or similar) download the zip and unpack it in $PUIDATA, then read it in with pandas 
+```pd.read_csv(os.getenv("PUIDATA") + <filename>)
+```
+
+
+1. Work in the [ADRF](http://cusp.adrf.cloud/). Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab  for Mac and Linux 
+and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
+
+   Write a Jupyter Notebook that:
+
+2. Check that an environmental variable PUIDATA exists and that it points to the PUIdata directory. Forcefully set it up within the notebook if it is not.Follow the instructions in [this notebok](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/setupPUIDATA.ipynb). The CSV file must have at least 2 numerical value columns.
+
+3. Display the top 7 rows of the DF in your notebook. This table __must be rendered__.
+
+4. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).) 
+
+6. Display the reducted dataframe. This table __must be rendered__.
+
+7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2018_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab3](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
+
+### GRADING: 
+You must use the environment variable PUIDATA.
+
+Your notebook must display
+- the data tables for the unreducted datasets (first few columns)
+- the data tables for the reducted datasets (first few columns)
+- the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption. 
+
+
+
+# Extra Credit Assignment : work with dates in Pandas
+
+Repeat the steps above 1-7 with a CSV file that contains _a date/time column and a numerical value_. Plot the numerical value against the date/time (hint: make sure your tick labels are readable. you can use they keyword rot in the df.plot() method, as for example df.plot(....., rot=90) to rotate the tick labels by 90 degrees.
+
+
+### GRADING:                                                
+
+Same rules as for HW1 Assignment 3 apply. Make sure your plots are rendered, with axis labels, with a caption that describes what I see, and what I should notice in the plot
 
 # Assignment 3:  tracking each vehicle for a line
 
@@ -141,46 +187,4 @@ The TAs will do minimal inspection of your code if it does not work. If the issu
 
 Working code but wrong output format (but correct content) will earn 50% of the points.
 
-# Assignment 2: Read CSV files with pandas
 
-Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/)) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file directly read it in with pandas 
-```pd.read_csv(_url_). 
-```
-If it is a zipped file (.zip or .gz or similar) download the zip and unpack it in $PUIDATA, then read it in with pandas 
-```pd.read_csv(os.getenv("PUIDATA") + <filename>)
-```
-
-
-1. Work in the [ADRF](http://cusp.adrf.cloud/). Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab  for Mac and Linux 
-and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
-
-   Write a Jupyter Notebook that:
-
-2. Check that an environmental variable PUIDATA exists and that it points to the PUIdata directory. Forcefully set it up within the notebook if it is not.Follow the instructions in [this notebok](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/setupPUIDATA.ipynb). The CSV file must have at least 2 numerical value columns.
-
-3. Display the top 7 rows of the DF in your notebook. This table __must be rendered__.
-
-4. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).) 
-
-6. Display the reducted dataframe. This table __must be rendered__.
-
-7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2018_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab3](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
-
-### GRADING: 
-You must use the environment variable PUIDATA.
-
-Your notebook must display
-- the data tables for the unreducted datasets (first few columns)
-- the data tables for the reducted datasets (first few columns)
-- the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption. 
-
-
-
-# Extra Credit Assignment : work with dates in Pandas
-
-Repeat the steps above 1-7 with a CSV file that contains _a date/time column and a numerical value_. Plot the numerical value against the date/time (hint: make sure your tick labels are readable. you can use they keyword rot in the df.plot() method, as for example df.plot(....., rot=90) to rotate the tick labels by 90 degrees.
-
-
-### GRADING:                                                
-
-Same rules as for HW1 Assignment 3 apply. Make sure your plots are rendered, with axis labels, with a caption that describes what I see, and what I should notice in the plot
