@@ -10,11 +10,13 @@
 
 ## ASSIGNMENTS:
 
-### Part 1: perform Lab3_fb55 as a homework: delete data and its history from a GitHub repo
+### Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo
 
 Deliverable: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
 
-### Part 2: Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. 
+### Part 2: Choose a CSV file from [NYC Open Data](https://opendata.cityofnewyork.us/) and use pandas to read the file and mangle the data within it.
+
+### Part 3: Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. 
 
 This homework is based on assignments by Prof. Vo, who is a specialist in transportation and databases, and whome you will meet later in the semester. Please request your API right after class! It may take some time before you get a reply from MTA.
 
@@ -23,7 +25,6 @@ This homework is based on assignments by Prof. Vo, who is a specialist in transp
   receiving an email from MTA within an hour (most of the time within only a few minutes).
   3. The key should be in the form of xxxxx-xxxxx-xxxxx-xxxxx-xxxxx. Please keep this key only to yourself as it would be your authorization token for MTA access and will be in this assignment. 
 
-### Part 3: Choose a CSV file from [NYC Open Data](https://opendata.cityofnewyork.us/) and use pandas to read the file and mangle the data within it.
 
 ## Submission Info:
 ### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2018\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2018\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
@@ -43,7 +44,7 @@ local machine for testing purposes. Also make sure to open it in an editor to
 familiarize yourself with all the fields of the response.
 
 
-# Assignment 1:  tracking each vehicle for a line
+# Assignment 3:  tracking each vehicle for a line
 
 Write a Python script (not a notebook this time, so that you can experiment with writing code that takes line inputs) to retrieve and report information about active
 vehicle for a bus line. 
@@ -87,7 +88,7 @@ Bus 4 is at latitude 40.686839 and longitude -73.964694
  
  Working code but wrong output format (but correct content) will earn 50% of the points.
 
-# Assignment 2: next stop information
+# Assignment 4: next stop information
 
 Write a Python script that displays information on the
 next stop location of all busses of a given line. For example, whether the bus is approaching a stop, or is 1 stop
@@ -140,24 +141,33 @@ The TAs will do minimal inspection of your code if it does not work. If the issu
 
 Working code but wrong output format (but correct content) will earn 50% of the points.
 
-# Assignment 3: Read CSV files with pandas
+# Assignment 2: Read CSV files with pandas
 
-Work on [compute](https://github.com/fedhere/PUI2018_fb55/blob/master/computationalResources.md). Choose a [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/data-catalog) that is available in CSV format (look at the format labels in the list of datasets). Chose one that has _at least_ 2 __numerical value__ columns. __DO NOT DOWNLOAD IT__: you must access it throught compute directly from the DF!! The data location may be stated in the description of the dataset, which you access by clicking the dataset, and may be stated in full under __Cusp Location__ (e.g. /gws/open/NYCOpenData/nycopendata/data/5b3a-rs48), or sometimes indicated by the __Data ID__	(e.g. uedp-fegm), in which case the first part of the path /gws/open/NYCOpenData/nycopendata/data/ is implicit. __note: the DF has been reorganized since I wrote this and the path may be slightly different (e.g. start with /projects). That is ok. start from whatever location the DFDATA env variable points to (as long as it points to something)__
+Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/)) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file directly read it in with pandas 
+```pd.read_csv(_url_). 
+```
+If it is a zipped file (.zip or .gz or similar) download the zip and unpack it in $PUIDATA, then read it in with pandas 
+```pd.read_csv(os.getenv("PUIDATA") + <filename>)
+```
 
-1. Fire off a Jupyter notebook with Jupyter Hub --[here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) for Mac and Linux and [here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Windows.pdf) for Windows--
+
+1. Work in the [ADRF](http://cusp.adrf.cloud/). Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab  for Mac and Linux 
 and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
 
-   Write a Jupyter Notebook on compute. This will require you to use the JupyterHub ([instructions here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) ). Write a notebook that:
+   Write a Jupyter Notebook that:
 
-2. Check that an environmental variable DFDATA exists and that it points to the data facility location /gws/open/NYCOpenData/nycopendata/data/.
-3. Use pandas to read in the CSV file from the DF into a pandas dataframe. The CSV file must have at least 2 numerical value columns.
-4. Display the top few rows of the DF in your notebook. This table __must be rendered__.
-5. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).) 
+2. Check that an environmental variable PUIDATA exists and that it points to the PUIdata directory. Forcefully set it up within the notebook if it is not.Follow the instructions in [this notebok](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/setupPUIDATA.ipynb). The CSV file must have at least 2 numerical value columns.
+
+3. Display the top 7 rows of the DF in your notebook. This table __must be rendered__.
+
+4. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).) 
+
 6. Display the reducted dataframe. This table __must be rendered__.
-7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2018_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab2](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
+
+7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2018_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab3](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
 
 ### GRADING: 
-You must use the environment variable DFDATA.
+You must use the environment variable PUIDATA.
 
 Your notebook must display
 - the data tables for the unreducted datasets (first few columns)
