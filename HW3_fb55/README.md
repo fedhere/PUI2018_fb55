@@ -13,7 +13,7 @@
 ### Part 1: perform the instruction in deleteData.md: delete data and its history from a GitHub repo
 
 
-### Part 2: Choose a CSV file from [NYC Open Data](https://opendata.cityofnewyork.us/) and use pandas to read the file and mangle the data within it.
+### Part 2: Choose a file in CSV format from [NYC Open Data](https://opendata.cityofnewyork.us/) and use pandas to read the file and mangle the data within it.
 
 ### Part 3: Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. 
 
@@ -46,7 +46,7 @@ familiarize yourself with all the fields of the response.
 
 Grading: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
 
-# Assignment 2: Read CSV files with pandas
+# Assignment 2: Read CSV files with pandas and ise NYC open data portal
 
 Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/)) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file directly read it in with pandas 
 ```
@@ -57,6 +57,7 @@ If it is a zipped file (.zip or .gz or similar) download the zip and unpack it i
 pd.read_csv(os.getenv("PUIDATA") + <filename>)
 ```
 
+### Follow the notebook HW2_example BUT YOU MUST USE A DIFFERENT DATASET
 
 1. Work in the [ADRF](http://cusp.adrf.cloud/). Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab  for Mac and Linux 
 and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
@@ -73,24 +74,30 @@ and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dro
 
 7. Plot the columns one against the other in a scatter plot using the datafraome plot method, like in the [lab example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab2_fb55/FormattingTables.ipynb).  (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2018_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_3_instructions.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab3](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
 
+
 ### GRADING: 
 You must use the environment variable PUIDATA.
 
 Your notebook must display
 - the data tables for the unreducted datasets (first few columns)
 - the data tables for the reducted datasets (first few columns)
-- the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption. 
+- the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption, all axes should be labelled.
 
 
 
-# Extra Credit Assignment : work with dates in Pandas
+## Extra Credit Assignment : work with dates in Pandas
 
-Repeat the steps above 1-7 with a CSV file that contains _a date/time column and a numerical value_. Plot the numerical value against the date/time (hint: make sure your tick labels are readable. you can use they keyword rot in the df.plot() method, as for example df.plot(....., rot=90) to rotate the tick labels by 90 degrees.
+Repeat the steps above 1-7 with a CSV file that contains _a date/time column and a numerical value_. If the dataset you chose has a date column plot each of the axes you had chosen above against that column. Remember the axis labels! 
+Plot the numerical value against the date/time (hint: make sure your tick labels are readable. you can use they keyword rot in the df.plot() method, as for example df.plot(....., rot=90) to rotate the tick labels by 90 degrees.
+
+Extract the data using the NYC Open Data API (SODA API). This will give you a link to a json file. Read that file in and show the first 8 rows
+Doing this may make HW3 easier to do! 
+
 
 
 ### GRADING:                                                
 
-Same rules as for HW1 Assignment 3 apply. Make sure your plots are rendered, with axis labels, with a caption that describes what I see, and what I should notice in the plot
+Same rules as for HW1 Assignment 2 apply. Make sure your plots are rendered, with axis labels, with a caption that describes what I see, and what I should notice in the plot
 
 # Assignment 3:  tracking each vehicle for a line
 
