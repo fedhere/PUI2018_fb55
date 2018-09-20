@@ -57,7 +57,7 @@ If it is a zipped file (.zip or .gz or similar) download the zip and unpack it i
 pd.read_csv(os.getenv("PUIDATA") + <filename>)
 ```
 
-### Follow the notebook HW2_example BUT YOU MUST USE A DIFFERENT DATASET
+### Follow the notebook HW2_example BUT YOU MUST USE A DIFFERENT DATASET THAN THE ONE I USED! no points if you do not
 
 1. Work in the [ADRF](http://cusp.adrf.cloud/). Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab  for Mac and Linux 
 and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
@@ -85,13 +85,14 @@ Your notebook must display
 
 
 
-## Extra Credit Assignment : work with dates in Pandas
+## Extra Credit Assignment : work with and APIs and dates in Pandas 
+
+
+Extract the same dataset data using the NYC Open Data API (SODA API). This will give you a link to a json file. Read that file in and show the first 8 rows
+Doing this may make HW3 easier to do! 
 
 Repeat the steps above 1-7 with a CSV file that contains _a date/time column and a numerical value_. If the dataset you chose has a date column plot each of the axes you had chosen above against that column. Remember the axis labels! 
 Plot the numerical value against the date/time (hint: make sure your tick labels are readable. you can use they keyword rot in the df.plot() method, as for example df.plot(....., rot=90) to rotate the tick labels by 90 degrees.
-
-Extract the data using the NYC Open Data API (SODA API). This will give you a link to a json file. Read that file in and show the first 8 rows
-Doing this may make HW3 easier to do! 
 
 
 
