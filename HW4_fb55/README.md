@@ -2,7 +2,7 @@
 
 ## ASSIGNED READING:
 
-- [The Earth is Round (p<0.05)](http://ist-socrates.berkeley.edu/~maccoun/PP279_Cohen1.pdf), Jacob Cohen 1994. A critique of _p_-value based science. 
+- [The Earth is Round (p<0.05)](http://psycnet.apa.org/fulltext/1995-12080-001.html), Jacob Cohen 1994. A critique of _p_-value based science. 
 
 
 ## ASSIGNMENTS:
@@ -69,7 +69,7 @@ Your notebook must display
 I am looking for here is: seeing a good Null/alternative hypothesis statement and treatment, with a clear Null and Alternative spelled out AND written out as a formula, and a good interpretation of the Z value you obtain in terms of ability or inability to reject the Null Hypothesis. 
 Here is the forumla
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Z%20%3D%20%5Cfrac%7B%5Cmu_%7Bpop%7D%20-%20%5Cmu_%7Bsample%7D%7D%7B%5Csigma%20%2F%20%5Csqrt%7BN%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Z = \frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{N}}" width="154" height="44" /> 
+<img src="http://www.sciweavers.org/tex2img.php?eq=Z%20%3D%20%5Cfrac%7B%5Cmu_%7Bpop%7D%20-%20%5Cmu_%7Bsample%7D%7D%7B%5Csigma%20%2F%20%5Csqrt%7BN%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Z = \frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{N}}" width="154" height="44" />
 
 This is also in the slides attached (in a more readable format).
 
