@@ -7,7 +7,7 @@
 
 ## ASSIGNMENTS:
 
-## Submission Info:
+## Submission Info
 ### You can work in groups, and you are encouraged to. 
 Create a HW4\_\<netID> directory in your PUI2018\_\<netID> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
