@@ -73,7 +73,7 @@ Here is the forumla
 
 This is also in the slides attached (in a more readable format).
 
-The chapter of _Statistics In a Nutshell_ that covers these topics is called Inferential statistics. 
+The chapter of [_Statistics In a Nutshell_](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Statistics/OReilly.Statistics.in.a.Nutshell.A.Desktop.Quick.Reference.Aug.2008.pdf) that covers these topics is called Inferential statistics. 
 It is chapter 3 in the hard copies of the book in the CUSP library, 
 but it was moved to chapter 7 in the online book version which is in the link. Same content more or less.
 
