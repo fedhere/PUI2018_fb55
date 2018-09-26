@@ -45,7 +45,7 @@ Your notebook must:
 
   
 You can work on [ADRF](http://cusp.adrf.cloud/), on your docker. 
-Choose a citibikes [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/dataset) ( the path should be gws/open/Student/citibike ) or download citibike data from their website.
+Choose a citibikes dataset (one or two months, earlier datasets are convenient cause they are smaller. More than one month may help address seasonal effects).
 
 1. Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab and switch to the Kernel PUI2017_Python2 or PUI2017_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
 
