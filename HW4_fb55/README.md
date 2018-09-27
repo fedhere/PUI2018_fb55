@@ -44,10 +44,10 @@ Your notebook must:
 ### I developed an example [here] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW4_fb55/citibikes_gender.ipynb)
 
   
-You can work on [ADRF](http://cusp.adrf.cloud/), on your docker. 
-Choose a citibikes dataset (one or two months, earlier datasets are convenient cause they are smaller. More than one month may help address seasonal effects).
+You can work on [ADRF](http://cusp.adrf.cloud/), or on your docker. 
+Choose a citibikes dataset (one or two months, earlier datasets are convenient cause they are smaller. More than one month may help address seasonal effects, etc, etc...).
 
-1. Fire off a Jupyter notebook with Jupyter Hub or Jupyter Lab and switch to the Kernel PUI2017_Python2 or PUI2017_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
+1. Fire off a Jupyter notebook from the command line, or with Jupyter Hub or Jupyter Lab and switch to the Kernel PUI2017_Python2 or PUI2017_Python3 if on ADRF from the Jupyter dropdown menu under Kernels -> Change Kernel.
 
 2. States the question you want to ask, and formulates the Null and Alternative hypothesis (remember the confidence level!) in words and as a formula. 
 *You will not test the hypothesis yet!* please do not do it even as extra credit (others will do your hypothesis)
