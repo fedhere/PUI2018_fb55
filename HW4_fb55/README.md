@@ -54,7 +54,7 @@ Choose a citibikes dataset (one or two months, earlier datasets are convenient c
 3. Use pandas to read in the CitiBike files, you must be able to download the data within the notebook, and move it to $PUIDATA (so the TA can reproduce your work). 
 3. Display the top few rows of the DF in your notebook. This table __must be rendered__.
 5. Display the reducted dataframe (with .head() for example). This table __must be rendered__.
-6. Plot your data distributions.
+6. Plot your data distributions. The data left at this point should be the data that you think will be useful to answer your question. Drop all other columns/rows.
 
 ### GRADING: 
 
@@ -66,14 +66,18 @@ Your notebook must display
 
 ## Assignment 3: Finish z-test lab and turn it in as a notebook .
 
-I am looking for here is: seeing a good Null/alternative hypothesis statement and treatment, with a clear Null and Alternative spelled out AND written out as a formula, and a good interpretation of the Z value you obtain in terms of ability or inability to reject the Null Hypothesis. 
+Follow the instructions on the slides as discussed in class. You are using the Z test to understand if a (fictitious) implementation of an alternative bus route for (fictitious) bus line X8 improves circulation. You know that the priginal bus rout for X8 took 36 +- 6 minutes (mean and standard deviation _parameters_ of the population) and you have a table for the duration of a number of trips with the new bus routes. You do not need to import packages or run a pre-written _Z_ test. The test is simply the formula below. What I am looking for here is: seeing a good Null/alternative hypothesis statement and treatment, with a clear Null and Alternative spelled out AND written out _as a formula_ (spometihing - something >=0 for example), and a good interpretation of the Z value you obtain in terms of ability or inability to reject the Null Hypothesis.
+
 Here is the forumla
 
 <img src="Screen Shot 2018-09-26 at 1.14.09 PM.png" align="center" border="0" alt="Z = \frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{N}}" width="154" height="44"/>
 
 This is also in the slides attached (in a more readable format).
 
-The chapter of [_Statistics In a Nutshell_](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Statistics/OReilly.Statistics.in.a.Nutshell.A.Desktop.Quick.Reference.Aug.2008.pdf) that covers these topics is called Inferential statistics. 
+Acquire the data as needed, measure the statistics for the distribution (the mean of the sample and sample size) and plug them in the formula. The number you get, the _Z statistics_ is the number of standard deviations away from the mean of your sample. _Have you set a significance level ahead of time as you should have?_ Then you can compare that probability threshold with the probability of getting a result at least as extreme as the one you got for your Z test. Remember that the Z test is returning multiples of the standard deviation of a Normal distribution, so 1sigma corresponds to 68% inclusion, 2sigma 95%, 3sigma 99.7%
+
+
+The chapter of [_Statistics In a Nutshell_](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Statistics/OReilly.Statistics.in.a.Nutshell.A.Desktop.Quick.Reference.Aug.2008.pdf) that covers these topics is called Inferential statistics, including the Z test. 
 It is chapter 3 in the hard copies of the book in the CUSP library, 
 but it was moved to chapter 7 in the online book version which is in the link. Same content more or less.
 
@@ -83,6 +87,6 @@ but it was moved to chapter 7 in the online book version which is in the link. S
 Your notebook must display
 - the complete formulation of the hypothesis (Null and Alternative) to be tested in words and formula
 - the download of the data (which is in https://github.com/fedhere/PUI2018_fb55/blob/master/Lab4_fb55/times.txt, but you must get the raw data!)
-- the calculation of the z statistics (with the given formula and the data processed from the data file)
-- the comparison of the statistis with the significance threshold and the conclusions about the Null Hypothesis
+- the calculation of the Z statistics (with the given formula and the data processed from the data file)
+- the comparison of the statistis with the _significance threshold_ and the conclusions about the Null Hypothesis
 
