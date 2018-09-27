@@ -41,7 +41,7 @@ Your notebook must:
 
 ### Assignment 2: Set up the work for data-driven inference based on CitiBike data. You should, even more than usual, work in groups for this!
 
-### I developed an example [here] (https://github.com/fedhere/PUI2018_fb55/blob/master/HW4_fb55/citibikes_gender.ipynb)
+### I developed an example [here](https://github.com/fedhere/PUI2018_fb55/blob/master/HW4_fb55/citibikes_gender.ipynb)
 
   
 You can work on [ADRF](http://cusp.adrf.cloud/), or on your docker. 
