@@ -1,6 +1,6 @@
 # remove sensitive files from repos
 
-1. Create a file in this repo inside of the folder _Lab3_fb55_ called _test.csv_ - the content should be a few lines of text following the csv syntax, for example
+1. Create a file in this repo inside of the folder _HW3_fb55_ called _test.csv_ - the content should be a few lines of text following the csv syntax, for example
 
     ```
     a,b,c
