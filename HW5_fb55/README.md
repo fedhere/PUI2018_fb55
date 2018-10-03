@@ -87,8 +87,11 @@ This is a template for the table. To see how it is written clock on the Raw link
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
   |||||||||
+  
+  
   Include the main plot of the paper (the plot that summarized the result)
-[main plot](Screen Shot 2018-10-03 at 7.30.43 AM.png)
+  
+![main plot](ancova.png)
 
 
 ### GRADING: 
