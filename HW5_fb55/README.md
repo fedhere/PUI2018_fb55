@@ -91,7 +91,7 @@ ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categoric
   
   Include the main plot of the paper (the plot that summarized the result)
   
-![main plot](ancova.png)
+![main plot](ancovaplosone.png)
 
 
 ### GRADING: 
