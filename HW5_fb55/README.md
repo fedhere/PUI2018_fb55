@@ -27,7 +27,7 @@ and states with whome you worked and what you specifically contributed to.
 
 Submit __Assignment 1__ as a pull request markdown file to be added to your classmate repository (see below), 
 
-Submit __Assignment 2__ by including your 3 tables (see below) in the README for the directory  into your PUI2017_\<netID\>/HW4_\<netID\> repository. 
+Submit __Assignment 2__ by including your 3 tables (see below) in the README for the directory  into your PUI2018_\<netID\>/HW5_\<netID\> repository. 
 
 Submit __Assignment 3__ and __Assignment 4__ as separate notebooks as usual. 
 
@@ -44,7 +44,7 @@ You will recieve an email tonight with the name, nyuID, and GitHub username of t
 
 2. look in the classmate HW4\_\<netid\> repo ASAP and identify their submission for the citibike project. If you cannot find it contact them immediately! 
 
-3. Fork their repository and clone it (you did this in HW1, look at the instructions in  the HW1 [README](https://github.com/fedhere/PUI2017_fb55/blob/master/HW1_fb55/README.md) if you need to refresh your memory) - only read up to the experimantal setup and verify the data to answer the question is available. Do not consider the way they answer the question if they already did!
+3. Fork their repository and clone it (you did this in HW1, look at the instructions in  the HW1 [README](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/README.md) if you need to refresh your memory) - only read up to the experimantal setup and verify the data to answer the question is available. Do not consider the way they answer the question if they already did!
 
 4. Read it carefully (but do not modify the notebook)! You have to:
   
@@ -87,7 +87,8 @@ This is a template for the table. To see how it is written clock on the Raw link
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
   |||||||||
-  
+  Include the main plot of the paper (the plot that summarized the result)
+[main plot](Screen Shot 2018-10-03 at 7.30.43 AM.png)
 
 
 ### GRADING: 
@@ -101,7 +102,7 @@ Reproduce the analysis of the Hard to Employ programs for NY. You may want to re
 
 Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/Lab4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
 
-Turn in your version of the python notebook in the HW4_\<netID\> directory
+Turn in your version of the python notebook in the HW5_\<netID\> directory
 
 
 ### Grading 
