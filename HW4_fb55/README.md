@@ -2,8 +2,8 @@
 
 ## ASSIGNED READING:
 
-- [The Earth is Round (p<0.05)](http://psycnet.apa.org/fulltext/1995-12080-001.html), Jacob Cohen 1994. A critique of _p_-value based science. 
-
+- [The Earth is Round (p<0.05)](https://www.researchgate.net/profile/Andrew_Marshall13/post/Are_likelihood-based_approaches_to_statistical_modelling_REALLY_removing_the_arbitrary_problem_of_95_significance/attachment/59e33c7d4cde2617ef83d882/AS%3A549676011458560%401508064381495/download/Cohen1994_TheEarthIsRound_AmPsych.pdf), Jacob Cohen 1994. A critique of _p_-value based science. 
+(The above link is free, the [official link](http://psycnet.apa.org/fulltext/1995-12080-001.html) should be free whenn accessed within thhe NYU network.
 
 ## ASSIGNMENTS:
 
