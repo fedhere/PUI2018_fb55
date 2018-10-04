@@ -20,7 +20,7 @@ For Assignment 2: Submission through notebook.
 
 ## Assignment 1: Practice pandas
 
-Follow the skeleton notebook [here](pandas\ PLUTO\ exercise\ instructions.ipynb)
+Follow the skeleton notebook [here](pandas PLUTO exercise instructions.ipynb)
   
 ### Grading 
 
