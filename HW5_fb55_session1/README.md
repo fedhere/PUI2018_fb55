@@ -127,7 +127,7 @@ Use the following are 3 tests to assess correlation between 2 samples of citibik
 - Spearman’s test 
 - K-S test
 
-There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2017_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
+There is a skeleton notebook that works on a similar question, age of male vs female riders. Follow it to see how to set up the assignment [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2018_fb55/blob/master/HW5_fb55_session1/citibikes_compare_distributions.ipynb). 
 
 
 Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
