@@ -38,7 +38,7 @@ and if the code appears too similar to that of people that you did not work with
 
 ## Assignment 1: Review your classmate's Citibike project proposal
 
-You will recieve an email tonight with the name, nyuID, and GitHub username of two classmate. 
+You will recieve an email tonight with the name, nyuID, and GitHub username of a classmate. 
 
 1. check that at least one of these class-mates is not already in your group for HW4 and contact me **promptly** if they both are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
 
@@ -56,7 +56,9 @@ You will recieve an email tonight with the name, nyuID, and GitHub username of t
   
 5. Write  your comments, suggestions, and suggested an appropriate statistical test, motivating your test choice, in a markdown **named CitibikeReview\_\<netID\>.md**. Suggest variations on the question, if you think it may be made more interesting.
 
-6. Submit a pull request to the original repository.
+6. Do not perform the test yet.
+
+7. Submit a pull request to the original repository to share your markdown.
 
 
 ### Grading: 
