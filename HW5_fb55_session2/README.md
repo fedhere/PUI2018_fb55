@@ -2,9 +2,7 @@
 
 ## ASSIGNED READING:
 
-[The simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005619) 
-
-Please read this carefully. In the second half of the semester I will pay a lot more attentions to the subtiltes of your presentations, starting with this homework.
+Read about the [Open Data Laws and the status of their implementation](https://www.wnyc.org/story/experts-agencies-suggest-nyc-open-data-law-lacks-resources/) and what is the [PLUTO data](https://www.wired.com/2013/08/nyc-pluto-data-map-party/)
 
 
 ## ASSIGNMENTS:
@@ -20,7 +18,7 @@ For Assignment 2: Submission through notebook.
 
 ## Assignment 1: Practice pandas
 
-Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb)
+Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb). There is a notebook in [Lab5_fb55_session2](https://github.com/fedhere/PUI2018_fb55/tree/master/Lab5_fb55_session2) called readingData.ipynb with some dataframe manipulation examples and several more in [the data wrangling folder in UInotebooks](https://github.com/fedhere/UInotebooks/tree/master/dataWrangling) inclusing the transcript of [Chapter 7](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb) of Python for Data Analysis (Pandas manual)
   
 ### Grading 
 
