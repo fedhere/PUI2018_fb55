@@ -20,11 +20,11 @@ For Assignment 2: Submission through notebook.
 
 ## Assignment 1: Practice pandas
 
-Follow the skeleton notebook [here](pandas PLUTO exercise instructions.ipynb)
+Follow the skeleton notebook ![here](pandas PLUTO exercise instructions.ipynb)
   
 ### Grading 
 
-You will be graded on the outputs of the notebook: the outputs should be as they are in the [skeleton notebook](pandas\ PLUTO\ exercise\ instructions.ipynb) . 
+You will be graded on the outputs of the notebook: the outputs should be as they are in the ![skeleton notebook](pandas\ PLUTO\ exercise\ instructions.ipynb) . 
 
 ## Assignment 2: Follow Mr. Kryaschev's instructions
 SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
