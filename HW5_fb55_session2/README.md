@@ -57,7 +57,7 @@ NOTES:
 
 You will be graded on the quality of the writing, as well as the correctness of the analysis. You will also be graded on whether you have discussed and considered the recommandations of your "referees", the classmates that reviewed your proposal.
 
-## Assignment 2: Follow Prof. Vo instructions
+## Assignment 2: Follow Mr. Kryaschev's instructions
 SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
 
 return the lab as a jupyter notebook using the [SQL_query notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW7_fb55/SQL_query.ipynb) to start (in this repo) and submitting the sql queries through the carto API
