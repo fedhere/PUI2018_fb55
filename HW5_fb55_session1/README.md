@@ -105,7 +105,7 @@ Your HW5\_\<netID\> README.md should show, in addition to the usual items (the s
 Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the [original document](http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf)).
 
 
-Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
+Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW5_fb55_session1/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
 
 Turn in your version of the python notebook in the HW5_\<netID\> directory
 
