@@ -31,7 +31,7 @@ Submit __Assignment 2__ by including your 3 tables (see below) in the README for
 
 Submit __Assignment 3__ and __Assignment 4__ as separate notebooks as usual. 
 
-**There is a lot of homework this week! dont wait until the last minute to start!**]
+**There is a lot of homework this week! nothing is particularly hard I think but there are several assignments. Dont wait until the last minute to start!**
 Keep in mind that we will look for possible cases of plagiarism, 
 and if the code appears too similar to that of people that you did not work with to be original work 
 (there are automated ways to look for plagiarism in code) you will be penalized.
