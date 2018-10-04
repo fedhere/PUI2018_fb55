@@ -20,7 +20,7 @@ For Assignment 2: Submission through notebook.
 
 ## Assignment 1: Practice pandas
 
-Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb). There is a notebook in [Lab5_fb55_session2](https://github.com/fedhere/PUI2018_fb55/tree/master/Lab5_fb55_session2) with some dataframe manipulation examples and several more in [the datawrangling folder in UInotebooks](https://github.com/fedhere/UInotebooks/tree/master/dataWrangling) inclusing the transcript of [Chapter 7](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb) of Python for Data Analysis (Pandas manual)
+Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb). There is a notebook in [Lab5_fb55_session2](https://github.com/fedhere/PUI2018_fb55/tree/master/Lab5_fb55_session2) called readingData.ipynb with some dataframe manipulation examples and several more in [the datawrangling folder in UInotebooks](https://github.com/fedhere/UInotebooks/tree/master/dataWrangling) inclusing the transcript of [Chapter 7](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb) of Python for Data Analysis (Pandas manual)
   
 ### Grading 
 
