@@ -132,9 +132,9 @@ There is a skeleton notebook that works on a similar question, age of male vs fe
 
 Use: trip duration of bikers that ride during the day vs night. State your result in words in terms of the Null Hypothesis
 
-Use: age of bikers for trips originating in Manhattan and in Brooklyn. Use at least 2 months of citibike data. 
+Use: age of bikers for trips originating in Manhattan and in Brooklyn. Use at least 2 months of citibike data. Extra Credit
 
-The citibike data can be accessed from the [citibike website](https://www.citibikenyc.com/system-data) - make sure you do it in a reproducible way: some of the tests will require you to select a subset of the data (hint hint!) so make sure that if you choose a random subset it is a reproducibly random one.
+The citibike data can be accessed from the [citibike website](https://www.citibikenyc.com/system-data) - make sure you do it in a reproducible way: some of the tests will require you to select a subset of the data (hint hint!) so make sure that if you choose a random subset it is a reproducibly random one. 
 
 
 ### Grading 
