@@ -27,5 +27,5 @@ You will be graded on the outputs of the notebook: the outputs should be as they
 ## Assignment 2: Follow Mr. Kryaschev's instructions
 SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
 
-return the lab as a jupyter notebook using the [SQL_query notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW5_fb55_session2/SQL_query.ipynb) to start (in this repo) and submitting the sql queries through the carto API
+return the lab as a jupyter notebook using the [SQL_query notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW6_fb55_session1/SQL_query.ipynb) to start (in this repo) and submitting the sql queries through the carto API
 
