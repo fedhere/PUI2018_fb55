@@ -18,14 +18,14 @@ For Assignment 2: Submission through notebook.
 
 ## Assignment 1: Practice pandas
 
-Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb). There is a notebook in [Lab5_fb55_session2](https://github.com/fedhere/PUI2018_fb55/tree/master/Lab5_fb55_session2) called readingData.ipynb with some dataframe manipulation examples and several more in [the data wrangling folder in UInotebooks](https://github.com/fedhere/UInotebooks/tree/master/dataWrangling) inclusing the transcript of [Chapter 7](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb) of Python for Data Analysis (Pandas manual)
+Follow the skeleton notebook [here](pandas_PLUTO_exercise_instructions.ipynb). There is a notebook in [Lab6_fb55_session1](https://github.com/fedhere/PUI2018_fb55/tree/master/Lab6_fb55_session1) called readingData.ipynb with some dataframe manipulation examples and several more in [the data wrangling folder in UInotebooks](https://github.com/fedhere/UInotebooks/tree/master/dataWrangling) inclusing the transcript of [Chapter 7](https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb) of Python for Data Analysis (Pandas manual)
   
 ### Grading 
 
 You will be graded on the outputs of the notebook: the outputs should be as they are in the [skeleton notebook](pandas_PLUTO_exercise_instructions.ipynb) . 
 
 ## Assignment 2: Follow Mr. Kryaschev's instructions
-SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf)
+SQL lab [Instructions](https://serv.cusp.nyu.edu/~hvo/files/SQL_Lab.pdf) (also [here] (https://github.com/fedhere/UInotebooks/blob/master/slides2018/SQL_Lecture_Lab.pdf))
 
 return the lab as a jupyter notebook using the [SQL_query notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW6_fb55_session1/SQL_query.ipynb) to start (in this repo) and submitting the sql queries through the carto API
 
