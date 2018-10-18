@@ -15,7 +15,7 @@ Census Research](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=an
 
 
 
-## Assignment 2: census geospatial analysis. 
+## Assignment 1: census geospatial analysis. 
 ## Due in two weeks, the week after thanksgiving. Work in groups.
 
 This assignment is designed to familiarize you with the [US Census](https://www.census.gov/) data (really the 1-year survey data) and at the same time to make you exercise with spatial analysis in geopandas.
