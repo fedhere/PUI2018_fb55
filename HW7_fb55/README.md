@@ -19,4 +19,3 @@ Census Research](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=an
 
 This assignment is designed to familiarize you with the [US Census](https://www.census.gov/) data (really the 1-year survey data) and at the same time to make you exercise with spatial analysis in geopandas.
 The goal is to assess if the [linkNYC](https://www.link.nyc/) stations are located to provide a useful service and to fill in a need. You will work with the American Fact Finder data via API and direct download, and with NYC shapefiles.
-The homework is long but you have 2 weeks to do it. If you leave it to the last minute you may have a hard time!
