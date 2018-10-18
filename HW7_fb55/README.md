@@ -16,7 +16,6 @@ Census Research](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=9478&context=an
 
 
 ## Assignment 1: census geospatial analysis. 
-## Due in two weeks, the week after thanksgiving. Work in groups.
 
 This assignment is designed to familiarize you with the [US Census](https://www.census.gov/) data (really the 1-year survey data) and at the same time to make you exercise with spatial analysis in geopandas.
 The goal is to assess if the [linkNYC](https://www.link.nyc/) stations are located to provide a useful service and to fill in a need. You will work with the American Fact Finder data via API and direct download, and with NYC shapefiles.
