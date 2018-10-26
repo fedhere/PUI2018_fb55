@@ -12,4 +12,4 @@ Run as
 ```
 python plotNYC.py 
 ```
-and close each window to progress to the next plot
+and close each window to progress to the next plot. Requires choroplethNYC to be available (see homework instructions)
