@@ -1,7 +1,9 @@
 # lab code
 
+_GeoDF merge demo.ipynb_
 
 notebook to explore merges with geodataframes
+
 
 _plotNYC.py_
 
