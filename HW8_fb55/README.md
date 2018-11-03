@@ -24,9 +24,14 @@ Finish your Citibike miniproject
 Work with the same team with which you submitted the proposal and turn in a single report for the whole team. Use Authorea . If you worked in a group your team should have recieved more than one review, merge and discuss their content as apprioriate.
 as a platform for delivery. 
 
-Make an account on Authorea (free account). Authorea is a collaborative writing platform. In past years we used it for the capstone reports (but it was purchased by a corparate group since so we may dismiss it).
+Make an account on Authorea (free account). Authorea is a collaborative writing platform. In past years we used it for the capstone reports (but it was purchased by a corparate group since so we may dismiss it).Authorea is not a notebook. You can duwnload the file but no reason to. Write the report in authorea. Include a link to the authorea report in your readme. Upload the notebook to get tub. Link the get hub notebook inside of Astoria article (Directions on how to do that are on the aithorea site) 
 
 Finish the Citibike analysis you set up in HW4 in a notebook. Perform the appropriate statistical test. Incorporate your classmate's comment (from the review you recieved in HW5/6) where appropriate, and when you are not incorporating them discuss why the suggestions were not embraced (a few of you do not have a review yet, but I will upload one within the next few hours).
+
+1. Write the report in authorea. 
+2. upload the notebook to github. 
+3. Link the get hub notebook inside of Authorea article (Directions on how to do that are on the aithorea site)
+4. Include a link to the authorea report in your readme in the homework repo.
 
 Write up a summary of the project as an Authorea article (a single article for your working team) which MUST includes:
 
