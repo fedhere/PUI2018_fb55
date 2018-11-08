@@ -43,13 +43,14 @@ repo.
 Each review will be reviewed and graded by me. 
 (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
-## Assignment 2: exercises with linear regression using statsmodels, follow [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment1_instructionsUpdated.ipynb)
+## Assignment 2: exercises with linear regression using statsmodels
+Follow [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment1_instructions.ipynb)
 
 
 ## Assignment 3: investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
 
-Follow instructions in [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment2_instructionsUpdated.ipynb)
+Follow instructions in [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment2_instructions.ipynb)
 
 ### Grading 
 Usual grading scheme applies. Remember that succesfully fitting a line to data is not sufficient. Comment on what conclusions can be drawn from your analysis (and don't jump to conclusions!)
