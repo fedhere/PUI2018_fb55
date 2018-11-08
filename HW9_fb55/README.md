@@ -24,7 +24,7 @@ and if the code appears too similar to that of people that you did not work with
 
 # Assignment 1
 Work on this assignment alone.
-You will recieve an email with 3 names and github handles of classmates. 
+You will recieve an email with 2 names and github handles of classmates. 
 Review their plots according to the things we discussed last lecture. 
 You can discuss your review with others but each of you should submit a review for each of the plots
 
