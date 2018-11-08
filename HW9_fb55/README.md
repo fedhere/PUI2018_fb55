@@ -13,19 +13,16 @@ and the linear regression notebook in [Lab 8](https://github.com/fedhere/PUI2018
 ### Submission Info:
 
 Work in groups of up to 5 as usual, and you are encouraged to. 
-Create a HW4\_\<nyuID\> directory in your PUI2017\_\<nyuID\> repository. 
+Create a HW9\_\<nyuID\> directory in your PUI2018\_\<nyuID\> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
 and states with whome you worked and what you specifically contributed to. 
-
-
-Submit each assignment as separate notebooks as usual in your PUI2017 repo in the HW5_fb55 directory. Remember the README with the statement of how you contributed to the work in your group
 
 Keep in mind that we will look for possible cases of plagiarism, 
 and if the code appears too similar to that of people that you did not work with to be original work 
 (there are automated ways to look for plagiarism in code) you will be penalized.
 
 
-# Assignment 0
+# Assignment 1
 Work on this assignment alone.
 You will recieve an email with 3 names and github handles of classmates. 
 Review their plots according to the things we discussed last lecture. 
@@ -44,13 +41,13 @@ Each review will be reviewed and graded by me.
 (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
 ## Assignment 2: exercises with linear regression using statsmodels
-Follow [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment1_instructions.ipynb)
+Follow [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment2_instructions.ipynb)
 
 
 ## Assignment 3: investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
 
-Follow instructions in [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment2_instructions.ipynb)
+Follow instructions in [this skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW9_fb55/Assignment3_instructions.ipynb)
 
 ### Grading 
 Usual grading scheme applies. Remember that succesfully fitting a line to data is not sufficient. Comment on what conclusions can be drawn from your analysis (and don't jump to conclusions!)
