@@ -4,8 +4,7 @@
 
 ## ASSIGNMENTS:
 
-### Assignment 1. Work from the [skeleton notebook]
-Finish the [in class lab](https://github.com/fedhere/PUI2018_fb55/blob/master/HW10_fb55/LRtest_lab.ipynb) 
+### Assignment 1. Finish the [in class lab](https://github.com/fedhere/PUI2018_fb55/blob/master/HW10_fb55/LRtest_lab.ipynb) 
 ### Assignment 2. Work from the [skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW10_fb55/building_nrg_instructions.ipynb) with the inline instructions.
 
 **Turn in as a notebook on the week of 11/27**, you can work in groups as usual, have a statement of the work balance in the group as usual. You must report in your README what is your contribution to the work honestly.
