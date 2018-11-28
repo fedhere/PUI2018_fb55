@@ -1,0 +1,1020 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+59 Meadow Rd,Inwood,NY,11096,799000,2300.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/59-Meadow-Rd-Inwood-NY-11096/31263585_zpid/
+30 Provenzano St UNIT 39,Inwood,NY,11096,179300,1440.0,2.0,3.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/30-Provenzano-St-UNIT-39-Inwood-NY-11096/2091900801_zpid/
+268 Morris Ave,Inwood,NY,11096,699000,NA,6.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/268-Morris-Ave-Inwood-NY-11096/31263153_zpid/
+293 Sheridan Blvd,Inwood,NY,11096,619000,1750.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/293-Sheridan-Blvd-Inwood-NY-11096/31262795_zpid/
+Walnut Rd,Inwood,NY,11096,213500,1025.0,2.0,1.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/Walnut-Rd-Inwood-NY-11096/2130517361_zpid/
+190 W Broadway,Inwood,NY,11096,320000,1434.0,4.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/190-W-Broadway-Inwood-NY-11096/31261456_zpid/
+154 Davis Ave,Inwood,NY,11096,240000,834.0,NA,1.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/154-Davis-Ave-Inwood-NY-11096/31262926_zpid/
+10 Walnut Rd,Inwood,NY,11096,207000,1025.0,2.0,1.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/10-Walnut-Rd-Inwood-NY-11096/31262985_zpid/
+1 Clinton Ave,Inwood,NY,11096,295000,NA,5.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Clinton-Ave-Inwood-NY-11096/31262275_zpid/
+328 Finger Island Rd,Inwood,NY,11096,384000,1469.0,4.0,1.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/328-Finger-Island-Rd-Inwood-NY-11096/31263668_zpid/
+416 Bayview Ave,Inwood,NY,11096,415000,1346.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/416-Bayview-Ave-Inwood-NY-11096/31262532_zpid/
+26 Saint George Pl,Inwood,NY,11096,249888,NA,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Saint-George-Pl-Inwood-NY-11096/31262176_zpid/
+191 Elm Rd,Inwood,NY,11096,549000,1909.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/191-Elm-Rd-Inwood-NY-11096/63216525_zpid/
+68 Soloff Blvd,Inwood,NY,11096,690000,NA,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Soloff-Blvd-Inwood-NY-11096/31263622_zpid/
+291 Doughty Blvd,Inwood,NY,11096,549000,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/291-Doughty-Blvd-Inwood-NY-11096/31262131_zpid/
+104 Jeanette Ave,Inwood,NY,11096,499000,1360.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/104-Jeanette-Ave-Inwood-NY-11096/31263056_zpid/
+63 Church St,Inwood,NY,11096,399000,1348.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-Church-St-Inwood-NY-11096/31262298_zpid/
+9 Maiden Ln,Inwood,NY,11096,524900,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Maiden-Ln-Inwood-NY-11096/31262301_zpid/
+261 Henry St,Inwood,NY,11096,549000,NA,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-Henry-St-Inwood-NY-11096/31262010_zpid/
+75 John St,Inwood,NY,11096,619000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/75-John-St-Inwood-NY-11096/31262033_zpid/
+154 Mott Ave,Inwood,NY,11096,320000,NA,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/154-Mott-Ave-Inwood-NY-11096/31262028_zpid/
+320 Finger Island Rd,Inwood,NY,11096,585000,1628.0,4.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/320-Finger-Island-Rd-Inwood-NY-11096/31263670_zpid/
+88 Bayview Ave,Inwood,NY,11096,659000,2177.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/88-Bayview-Ave-Inwood-NY-11096/31262397_zpid/
+14 Clinton Ave,Inwood,NY,11096,699999,NA,6.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-Clinton-Ave-Inwood-NY-11096/31262258_zpid/
+Walcott Ave,Inwood,NY,11096,NA,1623.0,NA,1.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241545881_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+26 Elm Ave,Floral Park,NY,11001,849000,2176.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Elm-Ave-Floral-Park-NY-11001/72402471_zpid/
+9515 238th St,Floral Park,NY,11001,550000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9515-238th-St-Floral-Park-NY-11001/31170573_zpid/
+176 Schenck Blvd,Floral Park,NY,11001,595000,1412.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/176-Schenck-Blvd-Floral-Park-NY-11001/31189264_zpid/
+223 Tulip Ave,Floral Park,NY,11001,589000,1551.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/223-Tulip-Ave-Floral-Park-NY-11001/31175198_zpid/
+55 Tulip Ave APT 5,Floral Park,NY,11001,225000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-Tulip-Ave-APT-5-Floral-Park-NY-11001/2125401821_zpid/
+8548 258th St,Floral Park,NY,11001,799000,2400.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8548-258th-St-Floral-Park-NY-11001/32104565_zpid/
+9 Concord St,Floral Park,NY,11001,509000,1504.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Concord-St-Floral-Park-NY-11001/31175231_zpid/
+259 Crest Ave,Floral Park,NY,11001,400000,1642.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/259-Crest-Ave-Floral-Park-NY-11001/31184015_zpid/
+173 W Poplar St,Floral Park,NY,11001,679000,1310.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/173-W-Poplar-St-Floral-Park-NY-11001/31174428_zpid/
+91 Tulip Ave APT FD3,Floral Park,NY,11001,245000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/91-Tulip-Ave-APT-FD3-Floral-Park-NY-11001/2103011312_zpid/
+26 Depan Ave,Floral Park,NY,11001,648000,NA,3.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Depan-Ave-Floral-Park-NY-11001/31172013_zpid/
+22506 95th Ave,Floral Park,NY,11001,415000,1264.0,3.0,4.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/22506-95th-Ave-Floral-Park-NY-11001/31170465_zpid/
+230 Mckee St,Floral Park,NY,11001,898000,2500.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-Mckee-St-Floral-Park-NY-11001/31095694_zpid/
+117 Cisney Ave,Floral Park,NY,11001,859000,2700.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/117-Cisney-Ave-Floral-Park-NY-11001/2094102220_zpid/
+24518 Superior Rd,Floral Park,NY,11001,424900,1358.0,3.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/24518-Superior-Rd-Floral-Park-NY-11001/31171000_zpid/
+8741 258th St,Floral Park,NY,11001,959000,NA,6.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8741-258th-St-Floral-Park-NY-11001/32105125_zpid/
+9235 245th St,Floral Park,NY,11001,495000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9235-245th-St-Floral-Park-NY-11001/31171192_zpid/
+26 Lesoir Ave,Floral Park,NY,11001,549000,1535.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Lesoir-Ave-Floral-Park-NY-11001/31189323_zpid/
+24 S Tyson Ave,Floral Park,NY,11001,399000,NA,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-S-Tyson-Ave-Floral-Park-NY-11001/2094921741_zpid/
+9257 244th St,Floral Park,NY,11001,539000,1171.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/9257-244th-St-Floral-Park-NY-11001/31171113_zpid/
+146 Memphis Ave,South Floral Park,NY,11001,695000,2157.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/146-Memphis-Ave-South-Floral-Park-NY-11001/31174269_zpid/
+(Undisclosed Address),Floral Park,NY,11001,799000,2189.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Floral-Park-NY-11001/2094630224_zpid/
+1392 Jefferson St,Floral Park,NY,11001,396000,1432.0,4.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1392-Jefferson-St-Floral-Park-NY-11001/31175851_zpid/
+124 Hawthorne Ave,Floral Park,NY,11001,336000,1284.0,3.0,2.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/124-Hawthorne-Ave-Floral-Park-NY-11001/31095611_zpid/
+33 Sycamore Ave,Floral Park,NY,11001,487000,1631.0,4.0,3.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/33-Sycamore-Ave-Floral-Park-NY-11001/31172113_zpid/
+5614 207th St,Bayside,NY,11364,695888,960.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-207th-St-Bayside-NY-11364/32084642_zpid/
+66 Meadow Woods Rd,Great Neck,NY,11020,2950000,NA,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Meadow-Woods-Rd-Great-Neck-NY-11020/31069670_zpid/
+106 Hilldale Rd,Albertson,NY,11507,799000,1650.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/106-Hilldale-Rd-Albertson-NY-11507/31103507_zpid/
+4757 188th St,Flushing,NY,11358,879000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4757-188th-St-Flushing-NY-11358/32051328_zpid/
+13330 135th Pl,South Ozone Park,NY,11420,559999,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13330-135th-Pl-South-Ozone-Park-NY-11420/2095535109_zpid/
+22055 46th Ave APT 3A,Bayside,NY,11361,288000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/22055-46th-Ave-APT-3A-Bayside-NY-11361/79741008_zpid/
+11756 140th St,Jamaica,NY,11436,529999,1240.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11756-140th-St-Jamaica-NY-11436/32182129_zpid/
+288 Continental Dr,Manhasset Hills,NY,11040,979000,9543.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/288-Continental-Dr-Manhasset-Hills-NY-11040/31098923_zpid/
+1500 Adele Ct,Elmont,NY,11003,465000,7800.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1500-Adele-Ct-Elmont-NY-11003/31183463_zpid/
+742 Lenore Ln,Elmont,NY,11003,610000,2700.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/742-Lenore-Ln-Elmont-NY-11003/31183106_zpid/
+100 Stone St,Elmont,NY,11003,460000,1425.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Stone-St-Elmont-NY-11003/31178863_zpid/
+109 Biltmore Ave,Elmont,NY,11003,260000,NA,0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/109-Biltmore-Ave-Elmont-NY-11003/31177682_zpid/
+(Undisclosed Address),Elmont,NY,11003,499500,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Elmont-NY-11003/2091855290_zpid/
+(Undisclosed Address),Elmont,NY,11003,449000,1428.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Elmont-NY-11003/2129224956_zpid/
+788 N Ascan St,Elmont,NY,11003,489000,1142.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/788-N-Ascan-St-Elmont-NY-11003/31183211_zpid/
+61 Lucille Ave,Elmont,NY,11003,559000,1765.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Lucille-Ave-Elmont-NY-11003/31203446_zpid/
+253 Gotham Ave,Elmont,NY,11003,249000,1071.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/253-Gotham-Ave-Elmont-NY-11003/31178206_zpid/
+457 Kirkman Ave,Elmont,NY,11003,529000,NA,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/457-Kirkman-Ave-Elmont-NY-11003/31180542_zpid/
+1356 Kiefer Ave,Elmont,NY,11003,449000,1200.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1356-Kiefer-Ave-Elmont-NY-11003/31180772_zpid/
+59 Goshen St,Elmont,NY,11003,479974,1557.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/59-Goshen-St-Elmont-NY-11003/31237285_zpid/
+27 Stone St,Elmont,NY,11003,390000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-Stone-St-Elmont-NY-11003/31179000_zpid/
+2014 Baylis Ave,Elmont,NY,11003,479000,1260.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2014-Baylis-Ave-Elmont-NY-11003/31178110_zpid/
+351 Travis Ave,Elmont,NY,11003,399000,4000.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/351-Travis-Ave-Elmont-NY-11003/31179684_zpid/
+1369 Star Ave,Elmont,NY,11003,485000,1531.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1369-Star-Ave-Elmont-NY-11003/31180724_zpid/
+622 Meacham Ave,Elmont,NY,11003,399000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/622-Meacham-Ave-Elmont-NY-11003/31215763_zpid/
+36 Roquette Ave,Elmont,NY,11003,300000,1320.0,3.0,3.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/36-Roquette-Ave-Elmont-NY-11003/31176828_zpid/
+42 Roquette Ave,Elmont,NY,11003,310000,NA,2.0,2.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/42-Roquette-Ave-Elmont-NY-11003/31176829_zpid/
+43 Norfolk Dr E,Elmont,NY,11003,529000,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-Norfolk-Dr-E-Elmont-NY-11003/31227783_zpid/
+1546 Adams St,Elmont,NY,11003,350000,1008.0,4.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1546-Adams-St-Elmont-NY-11003/31176296_zpid/
+707 Lorentz St,Elmont,NY,11003,440000,1542.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/707-Lorentz-St-Elmont-NY-11003/31234530_zpid/
+31 Carnegie Ave,Elmont,NY,11003,389900,1100.0,4.0,4.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/31-Carnegie-Ave-Elmont-NY-11003/2096889854_zpid/
+21 Cerenzia Blvd,Elmont,NY,11003,379999,NA,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Cerenzia-Blvd-Elmont-NY-11003/31182068_zpid/
+1315 Star Ave,Elmont,NY,11003,649000,2078.0,6.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1315-Star-Ave-Elmont-NY-11003/31181191_zpid/
+26014 75th Ave # 1,Glen Oaks,NY,11004,309000,NA,2.0,1.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/26014-75th-Ave-1-Glen-Oaks-NY-11004/79733187_zpid/
+8248 257th St,Floral Park,NY,11004,649999,NA,4.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8248-257th-St-Floral-Park-NY-11004/32103389_zpid/
+7959 267th St,Floral Park,NY,11004,720000,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7959-267th-St-Floral-Park-NY-11004/32102307_zpid/
+263-26 73rd Ave. 2nd Fl Floor 2 # FL 2ND,Glen Oaks,NY,11004,209900,585.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-26-73rd-Ave-2nd-Fl-Floor-2-FL-2ND-Glen-Oaks-NY-11004/2091984005_zpid/
+8120 264th St,Glen Oaks,NY,11004,639000,949.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8120-264th-St-Glen-Oaks-NY-11004/32103169_zpid/
+245-45 76 Ave,Glen Oaks,NY,11004,312500,NA,3.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-45-76-Ave-Glen-Oaks-NY-11004/2093218270_zpid/
+8014 255th St,Floral Park,NY,11004,655000,4150.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8014-255th-St-Floral-Park-NY-11004/32102456_zpid/
+7411 Little Neck Pkwy # H2+3,Glen Oaks,NY,11004,589900,1710.0,5.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7411-Little-Neck-Pkwy-H2+3-Glen-Oaks-NY-11004/2092497954_zpid/
+8254 265th St,Glen Oaks,NY,11004,765000,1708.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8254-265th-St-Glen-Oaks-NY-11004/32103673_zpid/
+8260 263rd St,Floral Park,NY,11004,999000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8260-263rd-St-Floral-Park-NY-11004/32103608_zpid/
+8004 266th St,Glen Oaks,NY,11004,629000,985.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8004-266th-St-Glen-Oaks-NY-11004/32102756_zpid/
+25545 75th Ave # G-2,Glen Oaks,NY,11004,289900,766.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/25545-75th-Ave-G-2-Glen-Oaks-NY-11004/2092247450_zpid/
+7955 264th St,Floral Park,NY,11004,900000,NA,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7955-264th-St-Floral-Park-NY-11004/32102223_zpid/
+26015 81st Ave,Floral Park,NY,11004,965000,NA,6.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26015-81st-Ave-Floral-Park-NY-11004/32102620_zpid/
+260-58 73rd Ave. 2nd Floor Floor 2 # FL 2ND,Glen Oaks,NY,11004,264900,651.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/260-58-73rd-Ave-2nd-Floor-Floor-2-FL-2ND-Glen-Oaks-NY-11004/2092668303_zpid/
+8266 261st St,Glen Oaks,NY,11004,789000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8266-261st-St-Glen-Oaks-NY-11004/32103513_zpid/
+8226 Little Neck Pkwy,Glen Oaks,NY,11004,785000,2260.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8226-Little-Neck-Pkwy-Glen-Oaks-NY-11004/32099680_zpid/
+26058 73rd Ave # B-2,Glen Oaks,NY,11004,264900,651.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26058-73rd-Ave-B-2-Glen-Oaks-NY-11004/2092516379_zpid/
+26452 73rd Ave,Glen Oaks,NY,11004,1250000,7501.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/26452-73rd-Ave-Glen-Oaks-NY-11004/32098359_zpid/
+74-11 Little Neck Pkwy. Floor 2+3,Glen Oaks,NY,11004,589900,1710.0,5.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/74-11-Little-Neck-Pkwy-Floor-2+3-Glen-Oaks-NY-11004/2092612370_zpid/
+8062 256th St,Floral Park,NY,11004,799999,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8062-256th-St-Floral-Park-NY-11004/32102498_zpid/
+255-11 75 Ave # FL 1ST,Glen Oaks,NY,11004,294500,NA,2.0,1.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/255-11-75-Ave-FL-1ST-Glen-Oaks-NY-11004/2096078715_zpid/
+8347 266th St,Glen Oaks,NY,11004,1900000,3099.0,5.0,6.5,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8347-266th-St-Glen-Oaks-NY-11004/32104084_zpid/
+6956 267th St,Glen Oaks,NY,11004,899000,6000.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6956-267th-St-Glen-Oaks-NY-11004/32098326_zpid/
+260th St,Glen Oaks,NY,11004,NA,145656.0,NA,2.0,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154076508_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+27010 Grand Central Pkwy APT 24A,Floral Park,NY,11005,539000,1173.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-24A-Floral-Park-NY-11005/2091888831_zpid/
+26910 Grand Central Pkwy APT 29Z,Floral Park,NY,11005,329000,719.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-29Z-Floral-Park-NY-11005/2091997927_zpid/
+27010 Grand Central Pkwy APT 14S,Floral Park,NY,11005,499000,1130.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-14S-Floral-Park-NY-11005/2092004205_zpid/
+26910 Grand Central Pkwy APT 17E,Floral Park,NY,11005,834000,1622.0,2.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-17E-Floral-Park-NY-11005/2091996020_zpid/
+27010 Grand Central Pkwy APT 19G,Floral Park,NY,11005,849000,1553.0,2.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-19G-Floral-Park-NY-11005/2092109613_zpid/
+27110 Grand Central Pkwy APT 30E,Floral Park,NY,11005,1250000,1622.0,2.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-30E-Floral-Park-NY-11005/2108971689_zpid/
+27110 Grand Central Pkwy APT 31T,Floral Park,NY,11005,379000,830.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-31T-Floral-Park-NY-11005/79515701_zpid/
+27010 Grand Central Pkwy APT 19A,Floral Park,NY,11005,499000,1074.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-19A-Floral-Park-NY-11005/2092004206_zpid/
+27110 Grand Central Pkwy APT 25T,Floral Park,NY,11005,375000,830.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-25T-Floral-Park-NY-11005/2137993478_zpid/
+26910 Grand Central Pkwy APT 6K,Floral Park,NY,11005,595000,1150.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-6K-Floral-Park-NY-11005/2099028738_zpid/
+27010 Grand Central Pkwy APT 27Q,Floral Park,NY,11005,279000,681.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-27Q-Floral-Park-NY-11005/2093170331_zpid/
+27010 Grand Central Pkwy APT 27F,Floral Park,NY,11005,319000,750.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-27F-Floral-Park-NY-11005/2093432735_zpid/
+27010 Grand Central Pkwy APT 22M,Floral Park,NY,11005,295000,756.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-22M-Floral-Park-NY-11005/2095044700_zpid/
+27110 Grand Central Pkwy APT 28Q,Floral Park,NY,11005,299000,690.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-28Q-Floral-Park-NY-11005/2118591391_zpid/
+27110 Grand Central Pkwy APT 7G,Floral Park,NY,11005,599000,1226.0,1.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-7G-Floral-Park-NY-11005/2094947539_zpid/
+27110 Grand Central Pkwy APT 3R,Floral Park,NY,11005,259000,682.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-3R-Floral-Park-NY-11005/79488101_zpid/
+26910 Grand Central Pkwy APT 22P,Floral Park,NY,11005,349000,800.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-22P-Floral-Park-NY-11005/2092421917_zpid/
+26910 Grand Central Pkwy APT 6O,Floral Park,NY,11005,599000,1200.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-6O-Floral-Park-NY-11005/121653323_zpid/
+26910 Grand Central Pkwy APT 17R,Floral Park,NY,11005,549000,1010.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26910-Grand-Central-Pkwy-APT-17R-Floral-Park-NY-11005/2117111100_zpid/
+27010 Grand Central Pkwy APT 30R,Floral Park,NY,11005,579000,1010.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-30R-Floral-Park-NY-11005/2092294037_zpid/
+27010 Grand Central Pkwy APT 4B,Floral Park,NY,11005,239000,630.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-4B-Floral-Park-NY-11005/89710806_zpid/
+27110 Grand Central Pkwy APT 9N,Floral Park,NY,11005,629000,1211.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-9N-Floral-Park-NY-11005/115826384_zpid/
+27110 Grand Central Pkwy APT 7F,Floral Park,NY,11005,279000,753.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27110-Grand-Central-Pkwy-APT-7F-Floral-Park-NY-11005/79746918_zpid/
+27010 Grand Central Pkwy APT 33Y,Floral Park,NY,11005,329000,881.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-33Y-Floral-Park-NY-11005/2093174804_zpid/
+27010 Grand Central Pkwy APT 2S,Floral Park,NY,11005,495000,1131.0,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/27010-Grand-Central-Pkwy-APT-2S-Floral-Park-NY-11005/126317636_zpid/
+782 Anderson Ave,Franklin Square,NY,11010,425000,1328.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/782-Anderson-Ave-Franklin-Square-NY-11010/31214443_zpid/
+793 Magnolia Dr,Franklin Square,NY,11010,539999,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/793-Magnolia-Dr-Franklin-Square-NY-11010/31214677_zpid/
+953 Adams Ave,Franklin Square,NY,11010,588000,NA,3.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/953-Adams-Ave-Franklin-Square-NY-11010/31205103_zpid/
+48 Catherine Ave,Franklin Square,NY,11010,415000,1077.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/48-Catherine-Ave-Franklin-Square-NY-11010/31203469_zpid/
+1023 Third Ave,Franklin Square,NY,11010,399000,5150.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1023-Third-Ave-Franklin-Square-NY-11010/31205790_zpid/
+165 Monroe St,Franklin Square,NY,11010,574000,1828.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/165-Monroe-St-Franklin-Square-NY-11010/31190159_zpid/
+1112 Langdon St,Franklin Square,NY,11010,292000,874.0,NA,1.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/1112-Langdon-St-Franklin-Square-NY-11010/31202899_zpid/
+48 Scherer Blvd,Franklin Square,NY,11010,323000,975.0,NA,1.5,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/48-Scherer-Blvd-Franklin-Square-NY-11010/31202368_zpid/
+735 Patterson Ave,Franklin Square,NY,11010,650000,3000.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/735-Patterson-Ave-Franklin-Square-NY-11010/31214514_zpid/
+146 Commonwealth St,Franklin Square,NY,11010,540000,1392.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/146-Commonwealth-St-Franklin-Square-NY-11010/31206021_zpid/
+1119 Langdon St,Franklin Square,NY,11010,675000,NA,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1119-Langdon-St-Franklin-Square-NY-11010/31203022_zpid/
+1036 Benmore Ave,Franklin Square,NY,11010,599999,1560.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1036-Benmore-Ave-Franklin-Square-NY-11010/31188676_zpid/
+987 Auburn St,Franklin Square,NY,11010,589000,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/987-Auburn-St-Franklin-Square-NY-11010/31189857_zpid/
+656 Seminole Rd,Franklin Square,NY,11010,545000,2833.0,5.0,3.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/656-Seminole-Rd-Franklin-Square-NY-11010/31213206_zpid/
+867 Hemlock St,Franklin Square,NY,11010,368000,1414.0,3.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/867-Hemlock-St-Franklin-Square-NY-11010/31214626_zpid/
+1105 Admont Ave,Franklin Square,NY,11010,402000,1318.0,NA,1.5,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1105-Admont-Ave-Franklin-Square-NY-11010/31188731_zpid/
+219 Harrison Ave,Franklin Square,NY,11010,332000,1141.0,2.0,1.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/219-Harrison-Ave-Franklin-Square-NY-11010/31190116_zpid/
+244 Goldenrod Ave,Franklin Square,NY,11010,464000,1600.0,4.0,3.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/244-Goldenrod-Ave-Franklin-Square-NY-11010/31192861_zpid/
+935 Southern Dr,Franklin Square,NY,11010,386000,1369.0,2.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/935-Southern-Dr-Franklin-Square-NY-11010/31213374_zpid/
+182 Averill Blvd,Franklin Square,NY,11010,589000,1254.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/182-Averill-Blvd-Franklin-Square-NY-11010/31193415_zpid/
+993 Cloud Ave,Franklin Square,NY,11010,485000,1198.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/993-Cloud-Ave-Franklin-Square-NY-11010/31204664_zpid/
+56 Doris Ave,Franklin Square,NY,11010,479000,1470.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/56-Doris-Ave-Franklin-Square-NY-11010/31203450_zpid/
+1035 Ferngate Dr,Franklin Square,NY,11010,380000,1274.0,4.0,1.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/1035-Ferngate-Dr-Franklin-Square-NY-11010/31213184_zpid/
+153 Semton Blvd,Franklin Square,NY,11010,499000,NA,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/153-Semton-Blvd-Franklin-Square-NY-11010/31206178_zpid/
+451 Madison St,Franklin Square,NY,11010,569000,1660.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/451-Madison-St-Franklin-Square-NY-11010/31205413_zpid/
+66 Meadow Woods Rd,Great Neck,NY,11020,2950000,NA,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Meadow-Woods-Rd-Great-Neck-NY-11020/31069670_zpid/
+89 Merrivale Rd,Great Neck,NY,11020,1399000,2044.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/89-Merrivale-Rd-Great-Neck-NY-11020/31071534_zpid/
+30 Meadow Woods Rd,Great Neck,NY,11020,3388000,5500.0,6.0,7.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/30-Meadow-Woods-Rd-Great-Neck-NY-11020/31069578_zpid/
+39 Tanners Rd,Great Neck,NY,11020,2388000,5200.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-Tanners-Rd-Great-Neck-NY-11020/31098396_zpid/
+61 Meadow Woods Rd,Great Neck,NY,11020,3068000,4134.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Meadow-Woods-Rd-Great-Neck-NY-11020/31069534_zpid/
+110 Windsor Gate,Great Neck,NY,11020,2500000,4081.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-Windsor-Gate-Great-Neck-NY-11020/31069440_zpid/
+2 Fox Hunt Ln,Great Neck,NY,11020,2498000,4304.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Fox-Hunt-Ln-Great-Neck-NY-11020/31069556_zpid/
+4809 Concord Ave,Great Neck,NY,11020,869000,1780.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4809-Concord-Ave-Great-Neck-NY-11020/31069930_zpid/
+5 Clark Dr,Great Neck,NY,11020,849000,1665.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/5-Clark-Dr-Great-Neck-NY-11020/31067425_zpid/
+230 Lakeville Rd,Great Neck,NY,11020,2388000,3544.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-Lakeville-Rd-Great-Neck-NY-11020/31071525_zpid/
+22 Tanners Rd,Great Neck,NY,11020,1160000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-Tanners-Rd-Great-Neck-NY-11020/31098406_zpid/
+10 Wilshire Dr,Great Neck,NY,11020,1250000,2058.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Wilshire-Dr-Great-Neck-NY-11020/31070642_zpid/
+20 Cherry Brook Pl S,Great Neck,NY,11020,725000,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Cherry-Brook-Pl-S-Great-Neck-NY-11020/31072189_zpid/
+25818 Kensington Pl,Great Neck,NY,11020,988988,1300.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/25818-Kensington-Pl-Great-Neck-NY-11020/31069866_zpid/
+36 School House Ln,Great Neck,NY,11020,1450000,3501.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-School-House-Ln-Great-Neck-NY-11020/31069649_zpid/
+26 Clark Dr,Great Neck,NY,11020,938000,1728.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Clark-Dr-Great-Neck-NY-11020/31067392_zpid/
+3 Bridle Path Ln,Great Neck,NY,11020,1228000,2413.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Bridle-Path-Ln-Great-Neck-NY-11020/31069493_zpid/
+1 Dorset Rd,Great Neck,NY,11020,1850000,NA,5.0,3.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Dorset-Rd-Great-Neck-NY-11020/31067158_zpid/
+13 Meadow Woods Rd,Great Neck,NY,11020,1638000,3075.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-Meadow-Woods-Rd-Great-Neck-NY-11020/31069454_zpid/
+14 Robbins Ln,Great Neck,NY,11020,1599000,3281.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/14-Robbins-Ln-Great-Neck-NY-11020/31069897_zpid/
+6 Bridle Path Ln,Great Neck,NY,11020,3180000,5000.0,6.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6-Bridle-Path-Ln-Great-Neck-NY-11020/31069538_zpid/
+50 Tanners Rd,Great Neck,NY,11020,1488000,NA,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-Tanners-Rd-Great-Neck-NY-11020/31098440_zpid/
+11 Robbins Ln,Great Neck,NY,11020,1299000,1973.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Robbins-Ln-Great-Neck-NY-11020/31070015_zpid/
+5 Old Field Ln,Great Neck,NY,11020,2498000,3608.0,6.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5-Old-Field-Ln-Great-Neck-NY-11020/31069505_zpid/
+51 Olive St,Great Neck,NY,11020,1288888,3476.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/51-Olive-St-Great-Neck-NY-11020/31098413_zpid/
+46 Rose Ave,Great Neck,NY,11021,899000,2064.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/46-Rose-Ave-Great-Neck-NY-11021/31068149_zpid/
+220 Clent Rd,Great Neck,NY,11021,1688000,11151.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/220-Clent-Rd-Great-Neck-NY-11021/31068905_zpid/
+29 North Dr,Great Neck,NY,11021,1724999,4735.0,7.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-North-Dr-Great-Neck-NY-11021/31071209_zpid/
+23 Johnstone Rd,Great Neck,NY,11021,1328000,2440.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Johnstone-Rd-Great-Neck-NY-11021/31068020_zpid/
+94 Bayview Ave,Great Neck,NY,11021,1249000,2585.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/94-Bayview-Ave-Great-Neck-NY-11021/31071638_zpid/
+4 E Mill Dr APT 3H,Great Neck,NY,11021,229000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-E-Mill-Dr-APT-3H-Great-Neck-NY-11021/2110866839_zpid/
+15 Linden St,Great Neck,NY,11021,1150000,2624.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Linden-St-Great-Neck-NY-11021/31069294_zpid/
+20 Hickory Dr,Great Neck,NY,11021,1688000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Hickory-Dr-Great-Neck-NY-11021/31067539_zpid/
+11 W Mill Dr APT 13C,Great Neck,NY,11021,349000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-W-Mill-Dr-APT-13C-Great-Neck-NY-11021/2102549767_zpid/
+15 Canterbury Rd APT D20,Great Neck,NY,11021,229000,751.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Canterbury-Rd-APT-D20-Great-Neck-NY-11021/2091907110_zpid/
+46 Terrace Cir APT 2B,Great Neck,NY,11021,229880,670.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/46-Terrace-Cir-APT-2B-Great-Neck-NY-11021/2091921677_zpid/
+(Undisclosed Address),Great Neck,NY,11021,228888,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Great-Neck-NY-11021/2091896844_zpid/
+180 S Middle Neck Rd APT 2C,Great Neck,NY,11021,418000,900.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/180-S-Middle-Neck-Rd-APT-2C-Great-Neck-NY-11021/2091876203_zpid/
+20 Chapel Pl APT 3F,Great Neck,NY,11021,618000,1340.0,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-Chapel-Pl-APT-3F-Great-Neck-NY-11021/2091876325_zpid/
+100 Cuttermill Rd APT 1G,Great Neck,NY,11021,588000,1100.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Cuttermill-Rd-APT-1G-Great-Neck-NY-11021/31071879_zpid/
+2 Town House Pl APT 3L,Great Neck,NY,11021,318000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Town-House-Pl-APT-3L-Great-Neck-NY-11021/2092051479_zpid/
+1 Town House Pl APT 2E,Great Neck,NY,11021,275888,950.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Town-House-Pl-APT-2E-Great-Neck-NY-11021/2113331747_zpid/
+3 Rose Ave,Great Neck,NY,11021,849000,1758.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3-Rose-Ave-Great-Neck-NY-11021/31068161_zpid/
+200 S Middle Neck Rd APT G4,Great Neck,NY,11021,520000,1600.0,3.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-S-Middle-Neck-Rd-APT-G4-Great-Neck-NY-11021/2091947164_zpid/
+10 Canterbury Rd # 2E/F,Great Neck,NY,11021,799000,1700.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Canterbury-Rd-2E-F-Great-Neck-NY-11021/2098982946_zpid/
+45 Hill Park Ave APT 3T,Great Neck,NY,11021,299000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-Hill-Park-Ave-APT-3T-Great-Neck-NY-11021/2099399079_zpid/
+160 Middle Neck Rd APT 3G,Great Neck,NY,11021,550000,1302.0,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/160-Middle-Neck-Rd-APT-3G-Great-Neck-NY-11021/2138748083_zpid/
+75 S Middle Neck Rd APT 2B,Great Neck,NY,11021,545000,1200.0,2.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/75-S-Middle-Neck-Rd-APT-2B-Great-Neck-NY-11021/2096141407_zpid/
+257 Schenck Ave,Great Neck,NY,11021,959000,1700.0,4.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/257-Schenck-Ave-Great-Neck-NY-11021/31068438_zpid/
+25 Canterbury Rd APT 3H,Great Neck,NY,11021,699000,1353.0,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Canterbury-Rd-APT-3H-Great-Neck-NY-11021/2121976675_zpid/
+5614 207th St,Bayside,NY,11364,695888,960.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-207th-St-Bayside-NY-11364/32084642_zpid/
+66 Meadow Woods Rd,Great Neck,NY,11020,2950000,NA,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Meadow-Woods-Rd-Great-Neck-NY-11020/31069670_zpid/
+106 Hilldale Rd,Albertson,NY,11507,799000,1650.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/106-Hilldale-Rd-Albertson-NY-11507/31103507_zpid/
+4757 188th St,Flushing,NY,11358,879000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4757-188th-St-Flushing-NY-11358/32051328_zpid/
+22055 46th Ave APT 3A,Bayside,NY,11361,288000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/22055-46th-Ave-APT-3A-Bayside-NY-11361/79741008_zpid/
+11756 140th St,Jamaica,NY,11436,529999,1240.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11756-140th-St-Jamaica-NY-11436/32182129_zpid/
+288 Continental Dr,Manhasset Hills,NY,11040,979000,9543.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/288-Continental-Dr-Manhasset-Hills-NY-11040/31098923_zpid/
+13338 Avery Ave APT 2C,Flushing,NY,11355,588000,866.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13338-Avery-Ave-APT-2C-Flushing-NY-11355/2093667849_zpid/
+100 Emerson Dr,Great Neck,NY,11023,3588000,8000.0,7.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/100-Emerson-Dr-Great-Neck-NY-11023/31070488_zpid/
+115 Greenleaf Hl,Great Neck,NY,11023,1825000,3197.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Greenleaf-Hl-Great-Neck-NY-11023/31070558_zpid/
+31 Bayport Ln N,Great Neck,NY,11023,8288000,NA,6.0,7.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/31-Bayport-Ln-N-Great-Neck-NY-11023/2091866245_zpid/
+44 Fairview Ave,Great Neck,NY,11023,1098000,NA,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-Fairview-Ave-Great-Neck-NY-11023/31062750_zpid/
+25 Willow Ln,Great Neck,NY,11023,1175000,1898.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-Willow-Ln-Great-Neck-NY-11023/31065642_zpid/
+444 Middle Neck Rd FL 3,Great Neck,NY,11023,299000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/444-Middle-Neck-Rd-FL-3-Great-Neck-NY-11023/2092063915_zpid/
+19 Baker Hill Rd,Great Neck,NY,11023,1080000,2000.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Baker-Hill-Rd-Great-Neck-NY-11023/31062823_zpid/
+53 Colgate Rd,Great Neck,NY,11023,968000,1855.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/53-Colgate-Rd-Great-Neck-NY-11023/31063820_zpid/
+35 Hutchinson Ct,Great Neck,NY,11023,1280000,3055.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Hutchinson-Ct-Great-Neck-NY-11023/31063705_zpid/
+9 Wimbleton Ln,Great Neck,NY,11023,945000,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9-Wimbleton-Ln-Great-Neck-NY-11023/31065497_zpid/
+10 Wooleys Ln APT 1B,Great Neck,NY,11023,438000,NA,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Wooleys-Ln-APT-1B-Great-Neck-NY-11023/2092377517_zpid/
+320 E Shore Rd APT 2A,Great Neck,NY,11023,338880,900.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/320-E-Shore-Rd-APT-2A-Great-Neck-NY-11023/2118725017_zpid/
+68 Wooleys Ln # A29,Great Neck,NY,11023,179000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Wooleys-Ln-A29-Great-Neck-NY-11023/2124433619_zpid/
+68 Wooleys Ln # 8A,Great Neck,NY,11023,199000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Wooleys-Ln-8A-Great-Neck-NY-11023/2092763135_zpid/
+30 Cooper Dr,Great Neck,NY,11023,1425000,3087.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Cooper-Dr-Great-Neck-NY-11023/31070368_zpid/
+320 E Shore Rd APT 19B,Great Neck,NY,11023,298000,1100.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/320-E-Shore-Rd-APT-19B-Great-Neck-NY-11023/2093050527_zpid/
+11 Wooleys Ln APT 2A,Great Neck,NY,11023,295000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Wooleys-Ln-APT-2A-Great-Neck-NY-11023/2093626788_zpid/
+11 Wooleys Ln APT 2F,Great Neck,NY,11023,369000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Wooleys-Ln-APT-2F-Great-Neck-NY-11023/2104066509_zpid/
+68 Wooleys Ln # B27,Great Neck,NY,11023,295000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Wooleys-Ln-B27-Great-Neck-NY-11023/2141113079_zpid/
+10 Whitman Rd,Great Neck,NY,11023,1488000,3217.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10-Whitman-Rd-Great-Neck-NY-11023/31070441_zpid/
+21 Bellingham Ln,Great Neck,NY,11023,1798000,3000.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-Bellingham-Ln-Great-Neck-NY-11023/116168309_zpid/
+70 Allenwood Rd,Great Neck,NY,11023,999000,1912.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-Allenwood-Rd-Great-Neck-NY-11023/31071132_zpid/
+107 Station Rd,Great Neck,NY,11023,3488000,6062.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/107-Station-Rd-Great-Neck-NY-11023/31065313_zpid/
+88 Maple St,Great Neck,NY,11023,1490000,NA,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/88-Maple-St-Great-Neck-NY-11023/31062800_zpid/
+28 Baker Hill Rd,Great Neck,NY,11023,849000,1600.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-Baker-Hill-Rd-Great-Neck-NY-11023/31063862_zpid/
+26 Stepping Stone Ln,Kings Point,NY,11024,1988000,4489.0,7.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-Stepping-Stone-Ln-Kings-Point-NY-11024/31064302_zpid/
+4 Pine Tree Dr,Kings Point,NY,11024,5600000,8500.0,7.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4-Pine-Tree-Dr-Kings-Point-NY-11024/31064901_zpid/
+(Undisclosed Address),Kings Point,NY,11024,3498000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Kings-Point-NY-11024/2091845464_zpid/
+30 Pheasant Run,Kings Point,NY,11024,8888000,4500.0,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Pheasant-Run-Kings-Point-NY-11024/31065274_zpid/
+23 Harbour Rd,Kings Point,NY,11024,3800000,40031.0,8.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Harbour-Rd-Kings-Point-NY-11024/31065247_zpid/
+6C Blue Sea Ln,Great Neck,NY,11024,2688000,NA,7.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6C-Blue-Sea-Ln-Great-Neck-NY-11024/2097530420_zpid/
+(Undisclosed Address),Great Neck,NY,11024,1898000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Great-Neck-NY-11024/2091903397_zpid/
+16 Steamboat Rd,Great Neck,NY,11024,765000,6000.0,3.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/16-Steamboat-Rd-Great-Neck-NY-11024/31064079_zpid/
+35 Shore Dr,Great Neck,NY,11024,4200000,NA,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Shore-Dr-Great-Neck-NY-11024/31062667_zpid/
+85-93 Steamboat Rd # 8,Great Neck,NY,11024,1018000,1900.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/85-93-Steamboat-Rd-8-Great-Neck-NY-11024/2092062000_zpid/
+115 Hicks Ln,Kings Point,NY,11024,1898000,3883.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Hicks-Ln-Kings-Point-NY-11024/31063093_zpid/
+15 Carriage Rd,Great Neck,NY,11024,1298000,2930.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Carriage-Rd-Great-Neck-NY-11024/2111378828_zpid/
+127 Kings Point Rd,Kings Point,NY,11024,2599000,NA,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/127-Kings-Point-Rd-Kings-Point-NY-11024/31064607_zpid/
+144 Kings Point Rd,Kings Point,NY,11024,22000000,12986.0,7.0,13.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/144-Kings-Point-Rd-Kings-Point-NY-11024/31064587_zpid/
+248 Steamboat Rd,Great Neck,NY,11024,641000,1641.0,3.0,2.0,NA,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/248-Steamboat-Rd-Great-Neck-NY-11024/31065891_zpid/
+566 E Shore Rd,Kings Point,NY,11024,1750000,NA,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/566-E-Shore-Rd-Kings-Point-NY-11024/31065240_zpid/
+117 Kings Point Rd,Kings Point,NY,11024,1698000,50138.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/117-Kings-Point-Rd-Kings-Point-NY-11024/31065786_zpid/
+61 Forest Row,Great Neck,NY,11024,1568000,2950.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/61-Forest-Row-Great-Neck-NY-11024/31065405_zpid/
+30 Martin Ct,Kings Point,NY,11024,10999000,12000.0,6.0,7.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-Martin-Ct-Kings-Point-NY-11024/31064763_zpid/
+199 W Shore Rd,Great Neck,NY,11024,1675000,3050.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/199-W-Shore-Rd-Great-Neck-NY-11024/31065914_zpid/
+16 Sinclair Dr,Great Neck,NY,11024,9550000,7000.0,8.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-Sinclair-Dr-Great-Neck-NY-11024/2114497904_zpid/
+117 Kings Point Rd LOT 1,Great Neck,NY,11024,1698000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/117-Kings-Point-Rd-LOT-1-Great-Neck-NY-11024/2092153978_zpid/
+198A Kings Point Rd,Great Neck,NY,11024,10500000,14000.0,9.0,10.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/198A-Kings-Point-Rd-Great-Neck-NY-11024/2100735917_zpid/
+445 E Shore Rd,Kings Point,NY,11024,3980000,5600.0,6.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/445-E-Shore-Rd-Kings-Point-NY-11024/31065105_zpid/
+11 Dock Ln,Kings Point,NY,11024,8800000,12000.0,9.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Dock-Ln-Kings-Point-NY-11024/31064851_zpid/
+5614 207th St,Bayside,NY,11364,695888,960.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-207th-St-Bayside-NY-11364/32084642_zpid/
+66 Meadow Woods Rd,Great Neck,NY,11020,2950000,NA,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Meadow-Woods-Rd-Great-Neck-NY-11020/31069670_zpid/
+106 Hilldale Rd,Albertson,NY,11507,799000,1650.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/106-Hilldale-Rd-Albertson-NY-11507/31103507_zpid/
+4757 188th St,Flushing,NY,11358,879000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4757-188th-St-Flushing-NY-11358/32051328_zpid/
+22055 46th Ave APT 3A,Bayside,NY,11361,288000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/22055-46th-Ave-APT-3A-Bayside-NY-11361/79741008_zpid/
+288 Continental Dr,Manhasset Hills,NY,11040,979000,9543.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/288-Continental-Dr-Manhasset-Hills-NY-11040/31098923_zpid/
+4853 186th St,Flushing,NY,11365,1148000,1686.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4853-186th-St-Flushing-NY-11365/32051756_zpid/
+100 Emerson Dr,Great Neck,NY,11023,3588000,8000.0,7.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/100-Emerson-Dr-Great-Neck-NY-11023/31070488_zpid/
+5614 207th St,Bayside,NY,11364,695888,960.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-207th-St-Bayside-NY-11364/32084642_zpid/
+66 Meadow Woods Rd,Great Neck,NY,11020,2950000,NA,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Meadow-Woods-Rd-Great-Neck-NY-11020/31069670_zpid/
+106 Hilldale Rd,Albertson,NY,11507,799000,1650.0,3.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/106-Hilldale-Rd-Albertson-NY-11507/31103507_zpid/
+4757 188th St,Flushing,NY,11358,879000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4757-188th-St-Flushing-NY-11358/32051328_zpid/
+22055 46th Ave APT 3A,Bayside,NY,11361,288000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/22055-46th-Ave-APT-3A-Bayside-NY-11361/79741008_zpid/
+288 Continental Dr,Manhasset Hills,NY,11040,979000,9543.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/288-Continental-Dr-Manhasset-Hills-NY-11040/31098923_zpid/
+4853 186th St,Flushing,NY,11365,1148000,1686.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4853-186th-St-Flushing-NY-11365/32051756_zpid/
+100 Emerson Dr,Great Neck,NY,11023,3588000,8000.0,7.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/100-Emerson-Dr-Great-Neck-NY-11023/31070488_zpid/
+2503 40th Ave,Long Island City,NY,11101,1800000,NA,4.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2503-40th-Ave-Long-Island-City-NY-11101/31936637_zpid/
+509 48th Ave APT 5J,Long Island City,NY,11101,688000,503.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-48th-Ave-APT-5J-Long-Island-City-NY-11101/83053680_zpid/
+512 51st Ave # 1A,Long Island City,NY,11101,2600000,2215.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-1A-Long-Island-City-NY-11101/2091857686_zpid/
+4102 27th St # 8A,Long Island City,NY,11101,1350000,1000.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-27th-St-8A-Long-Island-City-NY-11101/2091868445_zpid/
+3947 24th St,Long Island City,NY,11101,1400000,NA,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3947-24th-St-Long-Island-City-NY-11101/31936621_zpid/
+519 Borden Ave # 3A,Long Island City,NY,11101,1398000,1235.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/519-Borden-Ave-3A-Long-Island-City-NY-11101/2129986771_zpid/
+4102 27th St # 2C,Long Island City,NY,11101,917500,734.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-27th-St-2C-Long-Island-City-NY-11101/2091868444_zpid/
+509 48th Ave APT 2D,Long Island City,NY,11101,679000,500.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-48th-Ave-APT-2D-Long-Island-City-NY-11101/83054352_zpid/
+1314 Jackson Ave APT 3W,Long Island City,NY,11101,1050000,1083.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Jackson-Ave-APT-3W-Long-Island-City-NY-11101/2101941085_zpid/
+2728 Thomson Ave UNIT WS1,Long Island City,NY,11101,370000,381.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-WS1-Long-Island-City-NY-11101/2092011823_zpid/
+2626 Jackson Ave APT 502A,Long Island City,NY,11101,1199000,1048.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2626-Jackson-Ave-APT-502A-Long-Island-City-NY-11101/2092095545_zpid/
+4510 23rd St # A,Long Island City,NY,11101,4500000,3525.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4510-23rd-St-A-Long-Island-City-NY-11101/2092099519_zpid/
+512 51st Ave # 2B,Long Island City,NY,11101,720000,653.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-2B-Long-Island-City-NY-11101/2091948715_zpid/
+2519 43rd Ave # 611,Long Island City,NY,11101,1130000,1004.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2519-43rd-Ave-611-Long-Island-City-NY-11101/2095650974_zpid/
+1314 Jackson Ave APT 3E,Long Island City,NY,11101,1250000,1322.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Jackson-Ave-APT-3E-Long-Island-City-NY-11101/2111511185_zpid/
+512 51st Ave # 3A,Long Island City,NY,11101,1565000,1420.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-3A-Long-Island-City-NY-11101/2092097758_zpid/
+1102 49th Ave APT 2C,Long Island City,NY,11101,1225000,1060.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1102-49th-Ave-APT-2C-Long-Island-City-NY-11101/93392716_zpid/
+2721 44th Dr APT 204,Long Island City,NY,11101,1400000,997.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-204-Long-Island-City-NY-11101/2092037994_zpid/
+2721 44th Dr APT 2403,Long Island City,NY,11101,915000,646.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-2403-Long-Island-City-NY-11101/2092041865_zpid/
+2721 44th Dr APT 2304,Long Island City,NY,11101,885000,666.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-2304-Long-Island-City-NY-11101/2092040056_zpid/
+512 51st Ave # 2A,Long Island City,NY,11101,835000,755.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-2A-Long-Island-City-NY-11101/2092097759_zpid/
+2721 44th Dr APT 1504,Long Island City,NY,11101,865000,666.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-1504-Long-Island-City-NY-11101/2092040055_zpid/
+5326 35th St,Long Island City,NY,11101,5500000,NA,10.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5326-35th-St-Long-Island-City-NY-11101/2092090415_zpid/
+4283 Hunter St # 1B,Long Island City,NY,11101,1170000,1012.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-1B-Long-Island-City-NY-11101/2092082610_zpid/
+4283 Hunter St # 5A,Long Island City,NY,11101,745000,623.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-5A-Long-Island-City-NY-11101/2092082609_zpid/
+2542 18th St,Long Island City,NY,11102,1350000,2290.0,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2542-18th-St-Long-Island-City-NY-11102/31948796_zpid/
+2716 23rd St # 6,Astoria,NY,11102,1980000,NA,13.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2716-23rd-St-6-Astoria-NY-11102/2091849420_zpid/
+2631 3rd St # 1,Astoria,NY,11102,3400000,NA,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2631-3rd-St-1-Astoria-NY-11102/2091838759_zpid/
+3111 Newtown Ave # 6,Astoria,NY,11102,8200000,15000.0,0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3111-Newtown-Ave-6-Astoria-NY-11102/2091833306_zpid/
+1436 30th Rd,Long Island City,NY,11102,988800,1568.0,5.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1436-30th-Rd-Long-Island-City-NY-11102/31937306_zpid/
+2617 12th St,Long Island City,NY,11102,1299000,1700.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2617-12th-St-Long-Island-City-NY-11102/31948938_zpid/
+3045 23rd St,Astoria,NY,11102,1250000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3045-23rd-St-Astoria-NY-11102/2101941035_zpid/
+2322 30th Rd APT 4C,Long Island City,NY,11102,579000,550.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2322-30th-Rd-APT-4C-Long-Island-City-NY-11102/31937932_zpid/
+2540 Shore Blvd APT 11P,Astoria,NY,11102,430000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-Shore-Blvd-APT-11P-Astoria-NY-11102/2091969870_zpid/
+2310 30th Dr # 1,Astoria,NY,11102,1495000,NA,5.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2310-30th-Dr-1-Astoria-NY-11102/2092036086_zpid/
+2606 24th Ave,Long Island City,NY,11102,1900000,2722.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2606-24th-Ave-Long-Island-City-NY-11102/31946486_zpid/
+2304 30th Ave # 23-4,Astoria,NY,11102,1580000,1769.0,4.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2304-30th-Ave-23-4-Astoria-NY-11102/2092053749_zpid/
+1443 28th Ave APT 2F,Long Island City,NY,11102,599000,550.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1443-28th-Ave-APT-2F-Long-Island-City-NY-11102/68315159_zpid/
+1149 Welling Ct,Astoria,NY,11102,2199000,3100.0,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1149-Welling-Ct-Astoria-NY-11102/2139883624_zpid/
+2631 3rd St,Astoria,NY,11102,3400000,5100.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2631-3rd-St-Astoria-NY-11102/2139219553_zpid/
+928 Main Ave,Long Island City,NY,11102,850000,NA,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/928-Main-Ave-Long-Island-City-NY-11102/31936879_zpid/
+(Undisclosed Address),Astoria,NY,11102,1688000,NA,8.0,4.5,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Astoria-NY-11102/2096513507_zpid/
+1424 30th Ave,Long Island City,NY,11102,1500000,NA,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1424-30th-Ave-Long-Island-City-NY-11102/31937343_zpid/
+1456 30th Ave,Long Island City,NY,11102,2499000,1899.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1456-30th-Ave-Long-Island-City-NY-11102/31937357_zpid/
+3079 32nd St,Long Island City,NY,11102,589000,NA,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3079-32nd-St-Long-Island-City-NY-11102/112509955_zpid/
+3044 29th St APT 7V,Long Island City,NY,11102,673000,775.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3044-29th-St-APT-7V-Long-Island-City-NY-11102/31938262_zpid/
+2531 27th St,Long Island City,NY,11102,1575000,2106.0,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2531-27th-St-Long-Island-City-NY-11102/31946062_zpid/
+2339 30th Dr # 3,Astoria,NY,11102,1575000,NA,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2339-30th-Dr-3-Astoria-NY-11102/2092281543_zpid/
+1424 30th Ave # 1-2,Astoria,NY,11102,1500000,NA,5.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1424-30th-Ave-1-2-Astoria-NY-11102/2092163587_zpid/
+2618 14th Pl,Long Island City,NY,11102,1599000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2618-14th-Pl-Long-Island-City-NY-11102/31948928_zpid/
+3067 49th St # 1,Astoria,NY,11103,2579000,NA,12.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3067-49th-St-1-Astoria-NY-11103/2091871209_zpid/
+2567 44th St,Long Island City,NY,11103,1349000,1836.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2567-44th-St-Long-Island-City-NY-11103/31942004_zpid/
+3010 42nd St,Astoria,NY,11103,2195000,900.0,18.0,7.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3010-42nd-St-Astoria-NY-11103/2107846573_zpid/
+2444 38th St,Long Island City,NY,11103,1699000,NA,7.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2444-38th-St-Long-Island-City-NY-11103/31940387_zpid/
+3169 43rd St,Long Island City,NY,11103,1499000,1908.0,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3169-43rd-St-Long-Island-City-NY-11103/31941391_zpid/
+3286 41st St APT 4C,Long Island City,NY,11103,679000,681.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3286-41st-St-APT-4C-Long-Island-City-NY-11103/89027886_zpid/
+2465 38th St APT 10A,Astoria,NY,11103,620000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2465-38th-St-APT-10A-Astoria-NY-11103/2092097761_zpid/
+3013 37th St,Long Island City,NY,11103,849500,1395.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3013-37th-St-Long-Island-City-NY-11103/31940695_zpid/
+(Undisclosed Address),Astoria,NY,11103,2500000,NA,0,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Astoria-NY-11103/2103065114_zpid/
+3717 28th Ave,Astoria,NY,11103,2490000,NA,11.0,7.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3717-28th-Ave-Astoria-NY-11103/2100940912_zpid/
+2563 38th St # 1,Astoria,NY,11103,749000,864.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1-Astoria-NY-11103/2093878541_zpid/
+4405 25th Ave,Long Island City,NY,11103,1425000,2290.0,5.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4405-25th-Ave-Long-Island-City-NY-11103/31942136_zpid/
+3069 47th St,Long Island City,NY,11103,1695000,3000.0,5.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3069-47th-St-Long-Island-City-NY-11103/31942538_zpid/
+2563 38th St # 1A,Astoria,NY,11103,760000,870.0,1.0,2.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1A-Astoria-NY-11103/2093802274_zpid/
+2563 38th St # 1B,Astoria,NY,11103,859000,964.0,1.0,1.5,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1B-Astoria-NY-11103/2093842733_zpid/
+2415 45th St,Astoria,NY,11103,2799000,5000.0,0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2415-45th-St-Astoria-NY-11103/2092676412_zpid/
+2416 42nd St,Long Island City,NY,11103,1225000,300.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2416-42nd-St-Long-Island-City-NY-11103/31941165_zpid/
+(Undisclosed Address),Long Island City,NY,11103,1299000,2290.0,3.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Long-Island-City-NY-11103/2108979932_zpid/
+3063 38th St # PHA,Astoria,NY,11103,1082000,1260.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3063-38th-St-PHA-Astoria-NY-11103/2092996246_zpid/
+3063 38th St STE A,Astoria,NY,11103,1082000,1260.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3063-38th-St-STE-A-Astoria-NY-11103/2093103009_zpid/
+38th St,Long Island City,NY,11103,NA,2178.0,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075309_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+41st St,Long Island City,NY,11103,NA,2750.0,NA,2.0,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075477_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Steinway St,Long Island City,NY,11103,NA,2787.0,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240442109_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11103,NA,2695.0,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240487187_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+42nd St,Long Island City,NY,11103,NA,2100.0,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241993032_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4333 42nd St APT 3A,Long Island City,NY,11104,553000,520.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-42nd-St-APT-3A-Long-Island-City-NY-11104/112086021_zpid/
+5035 41st St,Sunnyside,NY,11104,1429000,NA,7.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5035-41st-St-Sunnyside-NY-11104/2146985559_zpid/
+4601 39th Ave APT 509,Sunnyside,NY,11104,180000,500.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4601-39th-Ave-APT-509-Sunnyside-NY-11104/2093274241_zpid/
+4333 48th St APT 5G,Long Island City,NY,11104,590000,825.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-APT-5G-Long-Island-City-NY-11104/93392742_zpid/
+4310 44th St APT 5A,Sunnyside,NY,11104,450000,600.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4310-44th-St-APT-5A-Sunnyside-NY-11104/72648578_zpid/
+4115 39th Pl,Long Island City,NY,11104,3100000,9300.0,12.0,14.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4115-39th-Pl-Long-Island-City-NY-11104/31935326_zpid/
+4755 39th Pl APT 6G,Sunnyside,NY,11104,1200000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-6G-Sunnyside-NY-11104/31935519_zpid/
+4755 39th Pl APT 4C,Long Island City,NY,11104,568000,NA,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-4C-Long-Island-City-NY-11104/31935494_zpid/
+4755 39th Pl APT 2E,Long Island City,NY,11104,518000,825.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-2E-Long-Island-City-NY-11104/31935503_zpid/
+4333 48th St,Long Island City,NY,11104,589888,11257.0,1.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-Long-Island-City-NY-11104/94720027_zpid/
+47-30 48th St,Sunnyside,NY,11104,2390000,NA,8.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/47-30-48th-St-Sunnyside-NY-11104/2093630287_zpid/
+41st St,Sunnyside,NY,11104,2700000,5526.0,11.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/41st-St-Sunnyside-NY-11104/2103651675_zpid/
+4310 Skillman Ave,Sunnyside,NY,11104,1598000,2080.0,7.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4310-Skillman-Ave-Sunnyside-NY-11104/89067101_zpid/
+4739 40th St APT 4C,Sunnyside,NY,11104,549999,965.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4739-40th-St-APT-4C-Sunnyside-NY-11104/2093296574_zpid/
+4840 40th St,Long Island City,NY,11104,1350000,2400.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4840-40th-St-Long-Island-City-NY-11104/31935656_zpid/
+4326 49th St,Sunnyside,NY,11104,5500000,NA,0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4326-49th-St-Sunnyside-NY-11104/2105178029_zpid/
+3906 44th St,Long Island City,NY,11104,1518000,1750.0,5.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3906-44th-St-Long-Island-City-NY-11104/31935215_zpid/
+4821 40th St APT 3D,Sunnyside,NY,11104,410000,800.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4821-40th-St-APT-3D-Sunnyside-NY-11104/81959828_zpid/
+47-21 49th St,Sunnyside,NY,11104,1648000,2916.0,8.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/47-21-49th-St-Sunnyside-NY-11104/2095131164_zpid/
+4333 48th St APT 4G,Long Island City,NY,11104,589888,826.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-APT-4G-Long-Island-City-NY-11104/94721654_zpid/
+4307 48th St # 5 A,Sunnyside,NY,11104,558000,804.0,1.0,1.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4307-48th-St-5-A-Sunnyside-NY-11104/2098336552_zpid/
+4127 39th Pl,Sunnyside,NY,11104,1500000,1700.0,3.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4127-39th-Pl-Sunnyside-NY-11104/2097973923_zpid/
+4142 42nd St APT 2A,Sunnyside,NY,11104,425000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4142-42nd-St-APT-2A-Sunnyside-NY-11104/2092434990_zpid/
+5058 42nd St,Sunnyside,NY,11104,1278000,2590.0,6.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5058-42nd-St-Sunnyside-NY-11104/2110007769_zpid/
+40th St,Long Island City,NY,11104,NA,2160.0,NA,2.0,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075444_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2147 33rd St # G,Astoria,NY,11105,295000,NA,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-G-Astoria-NY-11105/2091871215_zpid/
+2147 33rd St APT 1G,Astoria,NY,11105,295000,NA,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-1G-Astoria-NY-11105/115826808_zpid/
+2139 23rd St,Long Island City,NY,11105,1175000,1800.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2139-23rd-St-Long-Island-City-NY-11105/31947946_zpid/
+2077 45th St,Astoria,NY,11105,1598888,2080.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2077-45th-St-Astoria-NY-11105/2146978447_zpid/
+2710 23rd Ave,Long Island City,NY,11105,1800000,NA,5.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2710-23rd-Ave-Long-Island-City-NY-11105/31946526_zpid/
+2356 21st St,Long Island City,NY,11105,1000000,1622.0,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2356-21st-St-Long-Island-City-NY-11105/31948404_zpid/
+2128 35th St APT 4A,Astoria,NY,11105,529000,NA,3.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2128-35th-St-APT-4A-Astoria-NY-11105/2092027208_zpid/
+2361 19th St,Astoria,NY,11105,1799999,1296.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2361-19th-St-Astoria-NY-11105/31948395_zpid/
+2138 35th St APT 3C,Astoria,NY,11105,465000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2138-35th-St-APT-3C-Astoria-NY-11105/2092107386_zpid/
+2158 35th St APT 4C,Astoria,NY,11105,449000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-4C-Astoria-NY-11105/2094401621_zpid/
+2147 33rd St APT 3H,Astoria,NY,11105,349000,850.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-3H-Astoria-NY-11105/124875841_zpid/
+2106 23rd St,Long Island City,NY,11105,940000,2112.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-23rd-St-Long-Island-City-NY-11105/31948046_zpid/
+2105 33rd St APT 5H,Astoria,NY,11105,449000,NA,3.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2105-33rd-St-APT-5H-Astoria-NY-11105/114163077_zpid/
+2147 33rd St APT 5E,Astoria,NY,11105,249000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-5E-Astoria-NY-11105/2093680711_zpid/
+2106 35th St,Astoria,NY,11105,339000,750.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-35th-St-Astoria-NY-11105/2098946839_zpid/
+2106 35th St APT 2F,Astoria,NY,11105,319000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-35th-St-APT-2F-Astoria-NY-11105/2092275496_zpid/
+2137 33rd St APT 3F,Astoria,NY,11105,395000,750.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2137-33rd-St-APT-3F-Astoria-NY-11105/2094662128_zpid/
+2147 33rd St,Astoria,NY,11105,379000,NA,2.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-Astoria-NY-11105/2096924196_zpid/
+2158 35th St APT 3B,Astoria,NY,11105,479000,NA,2.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-3B-Astoria-NY-11105/2095030067_zpid/
+2139 38th St,Long Island City,NY,11105,1059000,1200.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2139-38th-St-Long-Island-City-NY-11105/31944739_zpid/
+4716 Ditmars Blvd,Long Island City,NY,11105,1175000,2050.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4716-Ditmars-Blvd-Long-Island-City-NY-11105/31943292_zpid/
+4502 Ditmars Blvd APT 221,Long Island City,NY,11105,825000,1148.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4502-Ditmars-Blvd-APT-221-Long-Island-City-NY-11105/93392798_zpid/
+2177 33rd St APT 1B,Astoria,NY,11105,200000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2177-33rd-St-APT-1B-Astoria-NY-11105/114407534_zpid/
+2311 Ditmars Blvd,Astoria,NY,11105,1688888,2000.0,6.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2311-Ditmars-Blvd-Astoria-NY-11105/2099075333_zpid/
+2128 35th St APT 4C,Astoria,NY,11105,469000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2128-35th-St-APT-4C-Astoria-NY-11105/2093317843_zpid/
+1417 31st Ave APT 4C,Astoria,NY,11106,350000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1417-31st-Ave-APT-4C-Astoria-NY-11106/89229982_zpid/
+2340 33rd Ave # 23-40-33RD,Astoria,NY,11106,1400000,NA,6.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2340-33rd-Ave-23-40-33RD-Astoria-NY-11106/2091835634_zpid/
+3269 33rd St # 3,Astoria,NY,11106,2450000,950.0,7.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3269-33rd-St-3-Astoria-NY-11106/2095744644_zpid/
+3269 33rd St,Long Island City,NY,11106,2450000,2560.0,7.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3269-33rd-St-Long-Island-City-NY-11106/31939509_zpid/
+3624 11th St # 36-24,Astoria,NY,11106,980000,2148.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3624-11th-St-36-24-Astoria-NY-11106/2091920035_zpid/
+2117 31st Ave # 6H,Astoria,NY,11106,799000,715.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-6H-Astoria-NY-11106/2091920029_zpid/
+2117 31st Ave # 4E,Astoria,NY,11106,859000,854.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-4E-Astoria-NY-11106/2091920031_zpid/
+2117 31st Ave # PHE,Astoria,NY,11106,899000,765.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-PHE-Astoria-NY-11106/2091921716_zpid/
+2117 31st Ave # PHC,Astoria,NY,11106,793200,661.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-PHC-Astoria-NY-11106/2091920033_zpid/
+3555 29th St APT 6C,Astoria,NY,11106,339000,451.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3555-29th-St-APT-6C-Astoria-NY-11106/79729264_zpid/
+3135 31st St UNIT 308,Astoria,NY,11106,659000,601.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3135-31st-St-UNIT-308-Astoria-NY-11106/2131812095_zpid/
+2540 31st Ave APT 2S,Astoria,NY,11106,365000,NA,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-31st-Ave-APT-2S-Astoria-NY-11106/2092024436_zpid/
+3275 34th St,Long Island City,NY,11106,1599000,2280.0,5.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3275-34th-St-Long-Island-City-NY-11106/31939556_zpid/
+2540 31st Ave APT 2H,Astoria,NY,11106,599000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-31st-Ave-APT-2H-Astoria-NY-11106/83127209_zpid/
+2125 31st Ave # H1,Astoria,NY,11106,2499000,NA,6.0,4.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2125-31st-Ave-H1-Astoria-NY-11106/2091966970_zpid/
+31st Ave,Astoria,NY,11106,499000,NA,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/31st-Ave-Astoria-NY-11106/2136987727_zpid/
+3355 14th St APT 10A,Long Island City,NY,11106,549000,865.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3355-14th-St-APT-10A-Long-Island-City-NY-11106/2092398653_zpid/
+3343 14th St APT 15D,Astoria,NY,11106,585000,900.0,2.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3343-14th-St-APT-15D-Astoria-NY-11106/79740920_zpid/
+2510 31st Ave APT 4L,Long Island City,NY,11106,600000,591.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2510-31st-Ave-APT-4L-Long-Island-City-NY-11106/31938354_zpid/
+3417 34th St,Long Island City,NY,11106,1299000,2104.0,9.0,2.5,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3417-34th-St-Long-Island-City-NY-11106/31939980_zpid/
+3113 12th St,Long Island City,NY,11106,1150000,1008.0,5.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3113-12th-St-Long-Island-City-NY-11106/31937029_zpid/
+2117 31st Ave # 2C,Astoria,NY,11106,694050,661.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-2C-Astoria-NY-11106/2092416237_zpid/
+2344 31st Dr,Long Island City,NY,11106,2400000,3000.0,14.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2344-31st-Dr-Long-Island-City-NY-11106/31937785_zpid/
+3462 10th St,Long Island City,NY,11106,1860000,2860.0,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3462-10th-St-Long-Island-City-NY-11106/31936126_zpid/
+2323 31st Ave # 2AF,Astoria,NY,11106,435000,450.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2323-31st-Ave-2AF-Astoria-NY-11106/2092869740_zpid/
+474 48th Ave APT 18K,Long Island City,NY,11109,548000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-18K-Long-Island-City-NY-11109/2092081713_zpid/
+474 48th Ave APT 12K,Long Island City,NY,11109,585000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-12K-Long-Island-City-NY-11109/79743811_zpid/
+474 48th Ave APT 10J,Long Island City,NY,11109,650000,863.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-10J-Long-Island-City-NY-11109/87618007_zpid/
+474 48th Ave,Long Island City,NY,11109,600000,833.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-Long-Island-City-NY-11109/62741339_zpid/
+474 48th Ave APT 10B,Long Island City,NY,11109,875000,1200.0,3.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-10B-Long-Island-City-NY-11109/2100974186_zpid/
+474 48th Ave APT 11L,Long Island City,NY,11109,640000,815.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-11L-Long-Island-City-NY-11109/81959827_zpid/
+474 48th Ave # 11D,Long Island City,NY,11109,540000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-11D-Long-Island-City-NY-11109/2097321604_zpid/
+4630 Center Blvd APT 612,Long Island City,NY,11109,2300000,1160.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-612-Long-Island-City-NY-11109/93392676_zpid/
+474 48th Ave # 35EF,Long Island City,NY,11109,1200000,1546.0,3.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-35EF-Long-Island-City-NY-11109/2092121169_zpid/
+474 48th Ave APT 39D,Long Island City,NY,11109,599000,833.0,2.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-39D-Long-Island-City-NY-11109/2092860405_zpid/
+474 48th Ave APT 25M,Long Island City,NY,11109,575000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-25M-Long-Island-City-NY-11109/80276503_zpid/
+474 48th Ave APT 35F,Long Island City,NY,11109,650000,863.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-35F-Long-Island-City-NY-11109/125791611_zpid/
+474 48th Ave APT 27E,Long Island City,NY,11109,528000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-27E-Long-Island-City-NY-11109/111711488_zpid/
+474 48th Ave APT 33G,Long Island City,NY,11109,539000,643.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-33G-Long-Island-City-NY-11109/2092747917_zpid/
+4630 Center Blvd # PHA,Long Island City,NY,11109,3998000,2108.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-PHA-Long-Island-City-NY-11109/2108041493_zpid/
+4630 Center Blvd APT 210,Long Island City,NY,11109,1198000,878.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-210-Long-Island-City-NY-11109/94721616_zpid/
+474 48th Ave APT 30L,Long Island City,NY,11109,918000,1200.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-30L-Long-Island-City-NY-11109/87800690_zpid/
+474 48th Ave APT 30F,Long Island City,NY,11109,648000,863.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-30F-Long-Island-City-NY-11109/79734158_zpid/
+474 48th Ave APT 33E,Long Island City,NY,11109,579000,700.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-33E-Long-Island-City-NY-11109/2107583620_zpid/
+4630 Center Blvd PH 5,Long Island City,NY,11109,4250000,2260.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-PH-5-Long-Island-City-NY-11109/93392709_zpid/
+474 48th Ave APT 35E,Long Island City,NY,11109,550000,683.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-35E-Long-Island-City-NY-11109/2092439772_zpid/
+474 48th Ave APT 11G,Long Island City,NY,11109,610000,863.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-11G-Long-Island-City-NY-11109/2092575595_zpid/
+474 48th Ave APT 14N,Long Island City,NY,11109,599999,790.0,1.0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-14N-Long-Island-City-NY-11109/109178497_zpid/
+4630 Center Blvd APT 1211,Long Island City,NY,11109,2515000,1459.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-1211-Long-Island-City-NY-11109/94720758_zpid/
+4630 Center Blvd APT 1701,Long Island City,NY,11109,2498000,1492.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-1701-Long-Island-City-NY-11109/94721697_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+8214 5th Ave,North Bergen,NJ,07047,599999,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8214-5th-Ave-North-Bergen-NJ-07047/38934018_zpid/
+234 6th St # A3,Jersey City,NJ,07302,549000,732.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/234-6th-St-A3-Jersey-City-NJ-07302/59899960_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+40 W 67th St APT 6B,New York,NY,10023,2725000,NA,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-W-67th-St-APT-6B-New-York-NY-10023/72520018_zpid/
+27 E 79th St # 5TH-FLOOR,New York,NY,10075,5250000,1475.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/27-E-79th-St-5TH-FLOOR-New-York-NY-10075/2091845967_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+40 W 67th St APT 6B,New York,NY,10023,2725000,NA,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-W-67th-St-APT-6B-New-York-NY-10023/72520018_zpid/
+310 E 46th St APT 16S,New York,NY,10017,550000,NA,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/310-E-46th-St-APT-16S-New-York-NY-10017/2091835638_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1264 Amsterdam Ave APT 4A,New York,NY,10027,585000,700.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1264-Amsterdam-Ave-APT-4A-New-York-NY-10027/2107756961_zpid/
+58 W 105th St APT 4C,New York,NY,10025,329000,580.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/58-W-105th-St-APT-4C-New-York-NY-10025/2111399565_zpid/
+414 W 121st St APT 64,New York,NY,10027,1200000,1070.0,3.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/414-W-121st-St-APT-64-New-York-NY-10027/2091840453_zpid/
+760 W End Ave APT 2B,New York,NY,10025,799999,900.0,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/760-W-End-Ave-APT-2B-New-York-NY-10025/79507466_zpid/
+771 W End Ave APT 3C,New York,NY,10025,599900,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/771-W-End-Ave-APT-3C-New-York-NY-10025/2091835633_zpid/
+310 Riverside Dr APT 1108,New York,NY,10025,475000,NA,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/310-Riverside-Dr-APT-1108-New-York-NY-10025/119911977_zpid/
+298 W 137th St # B,Manhattan,NY,10030,975000,1206.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/298-W-137th-St-B-Manhattan-NY-10030/2108638754_zpid/
+780 W End Ave # PHB,New York,NY,10025,995000,700.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/780-W-End-Ave-PHB-New-York-NY-10025/2091859544_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+350 E 30th St APT 1X,New York,NY,10016,475000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-30th-St-APT-1X-New-York-NY-10016/31509050_zpid/
+201 E 21st St APT 11K,New York,NY,10010,625000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-21st-St-APT-11K-New-York-NY-10010/119914849_zpid/
+166 E 35th St APT 5G,New York,NY,10016,675000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-35th-St-APT-5G-New-York-NY-10016/80131545_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+350 E 30th St APT 1X,New York,NY,10016,475000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-30th-St-APT-1X-New-York-NY-10016/31509050_zpid/
+201 E 21st St APT 11K,New York,NY,10010,625000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-21st-St-APT-11K-New-York-NY-10010/119914849_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+350 E 30th St APT 1X,New York,NY,10016,475000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-30th-St-APT-1X-New-York-NY-10016/31509050_zpid/
+201 E 21st St APT 11K,New York,NY,10010,625000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-21st-St-APT-11K-New-York-NY-10010/119914849_zpid/
+166 E 35th St APT 5G,New York,NY,10016,675000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-35th-St-APT-5G-New-York-NY-10016/80131545_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1185 Park Ave # PHA/1B,New York,NY,10128,18500000,NA,4.0,5.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1185-Park-Ave-PHA-1B-New-York-NY-10128/2091832085_zpid/
+1150 5th Ave # 14D,New York,NY,10128,2995000,NA,3.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1150-5th-Ave-14D-New-York-NY-10128/2091832086_zpid/
+302 E 96th St # 301,New York,NY,10128,900000,522.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/302-E-96th-St-301-New-York-NY-10128/2091865177_zpid/
+302 E 96th St # 1203,New York,NY,10128,2240000,1417.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/302-E-96th-St-1203-New-York-NY-10128/2091865181_zpid/
+170 E End Ave # 8/9E,New York,NY,10128,15000000,5002.0,5.0,10.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-E-End-Ave-8-9E-New-York-NY-10128/2091856315_zpid/
+300 E 93rd St APT 24E,New York,NY,10128,1150000,793.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-93rd-St-APT-24E-New-York-NY-10128/31544790_zpid/
+302 E 96th St # 1202,New York,NY,10128,1735000,979.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/302-E-96th-St-1202-New-York-NY-10128/2091865179_zpid/
+1641 3rd Ave APT 11J,New York,NY,10128,849000,850.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1641-3rd-Ave-APT-11J-New-York-NY-10128/61969436_zpid/
+235 E 87th St APT 6D,New York,NY,10128,849000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/235-E-87th-St-APT-6D-New-York-NY-10128/2117602075_zpid/
+1361 Madison Ave APT 3D,New York,NY,10128,425000,NA,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1361-Madison-Ave-APT-3D-New-York-NY-10128/2091879286_zpid/
+108 E 91st St # MEDICAL,New York,NY,10128,795000,NA,1.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/108-E-91st-St-MEDICAL-New-York-NY-10128/2091879714_zpid/
+111 E 88th St # 8EF,New York,NY,10128,1795000,1410.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/111-E-88th-St-8EF-New-York-NY-10128/2104828987_zpid/
+1601 3rd Ave APT 4B,New York,NY,10128,659000,528.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1601-3rd-Ave-APT-4B-New-York-NY-10128/61968307_zpid/
+155 E 93rd St APT 5E,New York,NY,10128,665000,600.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/155-E-93rd-St-APT-5E-New-York-NY-10128/2094881399_zpid/
+206 E 95th St APT 7B,New York,NY,10128,775000,826.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/206-E-95th-St-APT-7B-New-York-NY-10128/83931412_zpid/
+340 E 93rd St APT 27B,New York,NY,10128,649000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/340-E-93rd-St-APT-27B-New-York-NY-10128/2091882363_zpid/
+17 E 89th St # 12A,New York,NY,10128,7200000,NA,4.0,4.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/17-E-89th-St-12A-New-York-NY-10128/2091888808_zpid/
+12 E 88th St APT 7A,New York,NY,10128,8250000,2980.0,4.0,5.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-E-88th-St-APT-7A-New-York-NY-10128/2099826718_zpid/
+120 E 87th St APT P8B,New York,NY,10128,2875000,1500.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/120-E-87th-St-APT-P8B-New-York-NY-10128/31541593_zpid/
+400 E 90th St APT 5D,New York,NY,10128,657000,476.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/400-E-90th-St-APT-5D-New-York-NY-10128/79979607_zpid/
+12 E 88th St APT 9D,New York,NY,10128,3750000,1449.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-E-88th-St-APT-9D-New-York-NY-10128/2126657939_zpid/
+12 E 88th St APT 10A,New York,NY,10128,8500000,2980.0,4.0,5.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/12-E-88th-St-APT-10A-New-York-NY-10128/2099888161_zpid/
+51 E 90th St # 1B,New York,NY,10128,850000,NA,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/51-E-90th-St-1B-New-York-NY-10128/2092110274_zpid/
+1060 5th Ave # 10B,New York,NY,10128,34500000,NA,5.0,5.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1060-5th-Ave-10B-New-York-NY-10128/2098809731_zpid/
+1110 Park Ave,New York,NY,10128,25950000,7000.0,5.0,6.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1110-Park-Ave-New-York-NY-10128/31540743_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+8214 5th Ave,North Bergen,NJ,07047,599999,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8214-5th-Ave-North-Bergen-NJ-07047/38934018_zpid/
+234 6th St # A3,Jersey City,NJ,07302,549000,732.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/234-6th-St-A3-Jersey-City-NJ-07302/59899960_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+404 E 79th St APT 24A,New York,NY,10021,1030000,620.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/404-E-79th-St-APT-24A-New-York-NY-10021/31539265_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+404 E 79th St APT 24A,New York,NY,10021,1030000,620.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/404-E-79th-St-APT-24A-New-York-NY-10021/31539265_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+215 E 79th St,New York,NY,10075,1075000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-79th-St-New-York-NY-10075/31542538_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+404 E 79th St APT 24A,New York,NY,10021,1030000,620.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/404-E-79th-St-APT-24A-New-York-NY-10021/31539265_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+404 E 79th St APT 24A,New York,NY,10021,1030000,620.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/404-E-79th-St-APT-24A-New-York-NY-10021/31539265_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+350 E 82nd St APT 2F,New York,NY,10028,679000,610.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-82nd-St-APT-2F-New-York-NY-10028/80014342_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+350 E 30th St APT 1X,New York,NY,10016,475000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-30th-St-APT-1X-New-York-NY-10016/31509050_zpid/
+201 E 21st St APT 11K,New York,NY,10010,625000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-21st-St-APT-11K-New-York-NY-10010/119914849_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+5614 207th St,Bayside,NY,11364,695888,960.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5614-207th-St-Bayside-NY-11364/32084642_zpid/
+390 Charlton Ave,South Orange,NJ,07079,999000,3962.0,6.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/390-Charlton-Ave-South-Orange-NJ-07079/38731077_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+2642 E 27th St,Brooklyn,NY,11235,839000,1450.0,3.0,12.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2642-E-27th-St-Brooklyn-NY-11235/30750028_zpid/
+117 Oakland Rd,Maplewood,NJ,07040,669000,2400.0,4.0,1.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/117-Oakland-Rd-Maplewood-NJ-07040/52635656_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+35 Seacoast Ter STE 1,Brooklyn,NY,11235,449000,1100.0,2.0,2.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-Seacoast-Ter-STE-1-Brooklyn-NY-11235/2096294575_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+786 Green Ln,Union,NJ,07083,389000,2100.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/786-Green-Ln-Union-NJ-07083/63688669_zpid/
+2864 Gerritsen Ave,Brooklyn,NY,11229,689000,1140.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2864-Gerritsen-Ave-Brooklyn-NY-11229/30794155_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+415 Princeton Rd,Linden,NJ,07036,300000,1250.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/415-Princeton-Rd-Linden-NJ-07036/40016977_zpid/
+1101 E Blancke St,Linden,NJ,07036,249000,1200.0,3.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/1101-E-Blancke-St-Linden-NJ-07036/40012545_zpid/
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+8214 5th Ave,North Bergen,NJ,07047,599999,NA,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8214-5th-Ave-North-Bergen-NJ-07047/38934018_zpid/
+4757 188th St,Flushing,NY,11358,879000,NA,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4757-188th-St-Flushing-NY-11358/32051328_zpid/
+13330 135th Pl,South Ozone Park,NY,11420,559999,NA,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13330-135th-Pl-South-Ozone-Park-NY-11420/2095535109_zpid/
+234 6th St # A3,Jersey City,NJ,07302,549000,732.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/234-6th-St-A3-Jersey-City-NJ-07302/59899960_zpid/
+311 Prospect St,South Orange,NJ,07079,1249000,4170.0,6.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-Prospect-St-South-Orange-NJ-07079/38733680_zpid/
+22055 46th Ave APT 3A,Bayside,NY,11361,288000,750.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/22055-46th-Ave-APT-3A-Bayside-NY-11361/79741008_zpid/
+32 Burlington Rd,Clifton,NJ,07012,375000,1340.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Burlington-Rd-Clifton-NJ-07012/52891805_zpid/
+5605 31st Ave APT 3I,Woodside,NY,11377,299000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/5605-31st-Ave-APT-3I-Woodside-NY-11377/79486984_zpid/
+404 E 79th St APT 24A,New York,NY,10021,1030000,620.0,1.0,1.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/404-E-79th-St-APT-24A-New-York-NY-10021/31539265_zpid/
+1417 31st Ave APT 4C,Astoria,NY,11106,350000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1417-31st-Ave-APT-4C-Astoria-NY-11106/89229982_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+350 E 82nd St APT 2F,New York,NY,10028,679000,610.0,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-82nd-St-APT-2F-New-York-NY-10028/80014342_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+215 E 79th St,New York,NY,10075,1075000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-79th-St-New-York-NY-10075/31542538_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+575 Main St APT 715,New York,NY,10044,1350000,1603.0,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/575-Main-St-APT-715-New-York-NY-10044/2091857684_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+300 E 40th St APT 15A,New York,NY,10016,682000,600.0,0,1.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-E-40th-St-APT-15A-New-York-NY-10016/79982828_zpid/
+166 E 61st St # 5MN,New York,NY,10065,2600000,NA,3.0,3.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-5MN-New-York-NY-10065/2092235084_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+166 E 61st St APT 17G,New York,NY,10065,975000,975.0,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-61st-St-APT-17G-New-York-NY-10065/2092385181_zpid/
+330 E 38th St APT 52K,New York,NY,10016,1845000,1134.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-E-38th-St-APT-52K-New-York-NY-10016/31510806_zpid/
+8 E 62nd St,New York,NY,10065,79500000,14700.0,6.0,9.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-62nd-St-New-York-NY-10065/31533267_zpid/
+34 E 62nd St,New York,NY,10065,32500000,9200.0,5.0,8.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-E-62nd-St-New-York-NY-10065/31533263_zpid/
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+277 3rd St APT 3,Jersey City,NJ,07302,499000,778.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/277-3rd-St-APT-3-Jersey-City-NJ-07302/72246806_zpid/
+65 Mallard Pl # 65,Secaucus,NJ,07094,624999,1945.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-65-Secaucus-NJ-07094/2091839449_zpid/
+349 4th St # TA9L5Z,Jersey City,NJ,07302,1299000,1866.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917356_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+65 Mallard Pl,Secaucus,NJ,07094,624999,NA,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Mallard-Pl-Secaucus-NJ-07094/72241737_zpid/
+518 Gregory Ave # B409,Weehawken,NJ,07086,375000,1000.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/518-Gregory-Ave-B409-Weehawken-NJ-07086/2113314830_zpid/
+266 E Broadway APT B1202,New York,NY,10002,499000,507.0,0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/266-E-Broadway-APT-B1202-New-York-NY-10002/2091924863_zpid/
+349 4th St # 4X0UHX,Jersey City,NJ,07302,999000,1114.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917358_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+349 4th St # TRB7K7,Jersey City,NJ,07302,849000,967.0,2.0,2.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2092917357_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4 W 21st St APT 4C,New York,NY,10010,1875000,1256.0,2.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-W-21st-St-APT-4C-New-York-NY-10010/72538247_zpid/
+263 9th Ave APT 6B,New York,NY,10001,2599988,1536.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-APT-6B-New-York-NY-10001/69510347_zpid/
+33 W 56th St APT 4A,New York,NY,10019,2990000,1198.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/33-W-56th-St-APT-4A-New-York-NY-10019/97539206_zpid/
+322 W 57th St # 34S1,New York,NY,10019,3700000,1600.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/322-W-57th-St-34S1-New-York-NY-10019/89335055_zpid/
+350 E 30th St APT 1X,New York,NY,10016,475000,NA,0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/350-E-30th-St-APT-1X-New-York-NY-10016/31509050_zpid/
+201 E 21st St APT 11K,New York,NY,10010,625000,NA,1.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-21st-St-APT-11K-New-York-NY-10010/119914849_zpid/
+166 E 35th St APT 5G,New York,NY,10016,675000,NA,2.0,1.0,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/166-E-35th-St-APT-5G-New-York-NY-10016/80131545_zpid/
+15 Hudson Yards # 67E,New York,NY,10001,7575000,2497.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-67E-New-York-NY-10001/2091833309_zpid/

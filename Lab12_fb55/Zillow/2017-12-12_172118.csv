@@ -1,0 +1,397 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+2721 44th Dr APT 2503,Long Island City,NY,11101,1800000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-2503-Long-Island-City-NY-11101/2091813527_zpid/
+2721 44th Dr APT 2102,Long Island City,NY,11101,1740000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-2102-Long-Island-City-NY-11101/2091813526_zpid/
+2503 40th Ave,Long Island City,NY,11101,1800000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2503-40th-Ave-Long-Island-City-NY-11101/31936637_zpid/
+512 51st Ave # 1A,Long Island City,NY,11101,2600000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-1A-Long-Island-City-NY-11101/2091857686_zpid/
+509 48th Ave APT 5J,Long Island City,NY,11101,688000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-48th-Ave-APT-5J-Long-Island-City-NY-11101/83053680_zpid/
+4102 27th St # 8A,Long Island City,NY,11101,1350000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-27th-St-8A-Long-Island-City-NY-11101/2091868445_zpid/
+3947 24th St,Long Island City,NY,11101,1400000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3947-24th-St-Long-Island-City-NY-11101/31936621_zpid/
+509 48th Ave APT 2D,Long Island City,NY,11101,679000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/509-48th-Ave-APT-2D-Long-Island-City-NY-11101/83054352_zpid/
+4102 27th St # 2C,Long Island City,NY,11101,917500,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4102-27th-St-2C-Long-Island-City-NY-11101/2091868444_zpid/
+2728 Thomson Ave UNIT WS1,Long Island City,NY,11101,370000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-WS1-Long-Island-City-NY-11101/2092011823_zpid/
+1314 Jackson Ave APT 3W,Long Island City,NY,11101,1050000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Jackson-Ave-APT-3W-Long-Island-City-NY-11101/2101941085_zpid/
+4283 Hunter St # 5A,Long Island City,NY,11101,745000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-5A-Long-Island-City-NY-11101/2092082609_zpid/
+512 51st Ave # 2B,Long Island City,NY,11101,720000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-2B-Long-Island-City-NY-11101/2091948715_zpid/
+2519 43rd Ave # 611,Long Island City,NY,11101,1130000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2519-43rd-Ave-611-Long-Island-City-NY-11101/2095650974_zpid/
+4283 Hunter St # 1B,Long Island City,NY,11101,1170000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-1B-Long-Island-City-NY-11101/2092082610_zpid/
+2721 44th Dr APT 204,Long Island City,NY,11101,1400000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-204-Long-Island-City-NY-11101/2092037994_zpid/
+2721 44th Dr APT 2403,Long Island City,NY,11101,915000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-2403-Long-Island-City-NY-11101/2092041865_zpid/
+519 Borden Ave # 3A,Long Island City,NY,11101,1398000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/519-Borden-Ave-3A-Long-Island-City-NY-11101/2129986771_zpid/
+2721 44th Dr APT 1504,Long Island City,NY,11101,865000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-APT-1504-Long-Island-City-NY-11101/2092040055_zpid/
+1314 Jackson Ave APT 3E,Long Island City,NY,11101,1250000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Jackson-Ave-APT-3E-Long-Island-City-NY-11101/2111511185_zpid/
+2401 37th Ave,Long Island City,NY,11101,1395000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2401-37th-Ave-Long-Island-City-NY-11101/31936351_zpid/
+1309 40th Ave APT 5,Long Island City,NY,11101,2200000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1309-40th-Ave-APT-5-Long-Island-City-NY-11101/2093060232_zpid/
+240 51st Ave APT 4D,Long Island City,NY,11101,739000,NA,NA,NA,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/240-51st-Ave-APT-4D-Long-Island-City-NY-11101/89025092_zpid/
+4283 Hunter St # 2B,Long Island City,NY,11101,710000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-2B-Long-Island-City-NY-11101/2092304156_zpid/
+4126 27th St APT 4C,Long Island City,NY,11101,749000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4126-27th-St-APT-4C-Long-Island-City-NY-11101/79743840_zpid/
+4126 27th St APT 4C,Long Island City,NY,11101,749000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4126-27th-St-APT-4C-Long-Island-City-NY-11101/79743840_zpid/
+4536 11th St # 1,Long Island City,NY,11101,2500000,NA,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4536-11th-St-1-Long-Island-City-NY-11101/2106095498_zpid/
+4510 23rd St # A,Long Island City,NY,11101,4500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4510-23rd-St-A-Long-Island-City-NY-11101/2092099519_zpid/
+4427 Purves St APT 12C,Long Island City,NY,11101,725000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4427-Purves-St-APT-12C-Long-Island-City-NY-11101/82816180_zpid/
+512 51st Ave # 3A,Long Island City,NY,11101,1565000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-3A-Long-Island-City-NY-11101/2092097758_zpid/
+4283 Hunter St # 2A,Long Island City,NY,11101,710000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4283-Hunter-St-2A-Long-Island-City-NY-11101/2092304148_zpid/
+2149 45th Rd,Long Island City,NY,11101,2995000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2149-45th-Rd-Long-Island-City-NY-11101/31933890_zpid/
+3552 Steinway St,Long Island City,NY,11101,7365000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3552-Steinway-St-Long-Island-City-NY-11101/2099595398_zpid/
+1135 45th Ave APT 2D,Long Island City,NY,11101,640000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1135-45th-Ave-APT-2D-Long-Island-City-NY-11101/2092632754_zpid/
+5009 5th St,Long Island City,NY,11101,4250000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5009-5th-St-Long-Island-City-NY-11101/31933686_zpid/
+512 51st Ave # 2A,Long Island City,NY,11101,835000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/512-51st-Ave-2A-Long-Island-City-NY-11101/2092097759_zpid/
+519 Borden Ave APT 9L,Long Island City,NY,11101,880000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/519-Borden-Ave-APT-9L-Long-Island-City-NY-11101/2092158116_zpid/
+1063 Jackson Ave APT 6E,Long Island City,NY,11101,780000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1063-Jackson-Ave-APT-6E-Long-Island-City-NY-11101/89025201_zpid/
+240 51st Ave APT 3P,Long Island City,NY,11101,1395000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-51st-Ave-APT-3P-Long-Island-City-NY-11101/89025089_zpid/
+2728 Thomson Ave UNIT 237,Long Island City,NY,11101,1495000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-237-Long-Island-City-NY-11101/83054444_zpid/
+217 51st Ave APT 222,Long Island City,NY,11101,1398000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/217-51st-Ave-APT-222-Long-Island-City-NY-11101/89069432_zpid/
+1040 46th Rd # 4B/5B,Long Island City,NY,11101,3695000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1040-46th-Rd-4B-5B-Long-Island-City-NY-11101/2092413386_zpid/
+4815 11th St APT 6E,Long Island City,NY,11101,1400000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4815-11th-St-APT-6E-Long-Island-City-NY-11101/89069748_zpid/
+1017 Jackson Ave APT 4A,Long Island City,NY,11101,899900,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1017-Jackson-Ave-APT-4A-Long-Island-City-NY-11101/112512174_zpid/
+2110 44th Dr # 5A,Long Island City,NY,11101,780000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2110-44th-Dr-5A-Long-Island-City-NY-11101/2093383103_zpid/
+4251 Hunter St APT 2A,Long Island City,NY,11101,1249000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4251-Hunter-St-APT-2A-Long-Island-City-NY-11101/83052471_zpid/
+2728 Thomson Ave UNIT 454,Long Island City,NY,11101,1375000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-454-Long-Island-City-NY-11101/83056594_zpid/
+519 Borden Ave APT 1A,Long Island City,NY,11101,1480000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/519-Borden-Ave-APT-1A-Long-Island-City-NY-11101/2123956238_zpid/
+240 51st Ave APT 2M,Long Island City,NY,11101,810000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-51st-Ave-APT-2M-Long-Island-City-NY-11101/89025085_zpid/
+5326 35th St,Long Island City,NY,11101,5500000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5326-35th-St-Long-Island-City-NY-11101/2092090415_zpid/
+2721 44th Dr # 1501,Long Island City,NY,11101,1680000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-1501-Long-Island-City-NY-11101/2092220001_zpid/
+2728 Thomson Ave UNIT 438,Long Island City,NY,11101,1090000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-438-Long-Island-City-NY-11101/83056554_zpid/
+13-33 Jackson Ave # 7G,Long Island City,NY,11101,1608000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-33-Jackson-Ave-7G-Long-Island-City-NY-11101/2098809730_zpid/
+2110 44th Dr # 5C,Long Island City,NY,11101,1575000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2110-44th-Dr-5C-Long-Island-City-NY-11101/2094487515_zpid/
+2110 44th Dr # 5B,Long Island City,NY,11101,795000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2110-44th-Dr-5B-Long-Island-City-NY-11101/2093215534_zpid/
+2721 44th Dr # 1902,Long Island City,NY,11101,1700000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-1902-Long-Island-City-NY-11101/2095878005_zpid/
+4427 Purves St APT 9B,Long Island City,NY,11101,1125000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4427-Purves-St-APT-9B-Long-Island-City-NY-11101/83052597_zpid/
+2415 Queens Plz N UNIT 9A,Long Island City,NY,11101,1585000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2415-Queens-Plz-N-UNIT-9A-Long-Island-City-NY-11101/89027421_zpid/
+2728 Thomson Ave UNIT 245,Long Island City,NY,11101,1680000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-245-Long-Island-City-NY-11101/83053636_zpid/
+1333 Jackson Ave # PHB,Long Island City,NY,11101,3495000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1333-Jackson-Ave-PHB-Long-Island-City-NY-11101/2093432679_zpid/
+2728 Thomson Ave UNIT 801,Long Island City,NY,11101,1289000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-801-Long-Island-City-NY-11101/83054512_zpid/
+2716 41st Ave APT 5A,Long Island City,NY,11101,919000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2716-41st-Ave-APT-5A-Long-Island-City-NY-11101/83053367_zpid/
+2728 Thomson Ave UNIT 540,Long Island City,NY,11101,2200000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-540-Long-Island-City-NY-11101/83053927_zpid/
+1018 47th Ave,Long Island City,NY,11101,2550000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1018-47th-Ave-Long-Island-City-NY-11101/31933772_zpid/
+1040 46th Rd # GARDEN-B,Long Island City,NY,11101,1350000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1040-46th-Rd-GARDEN-B-Long-Island-City-NY-11101/2093327977_zpid/
+13-33 Jackson Ave # 4A,Long Island City,NY,11101,1228000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-33-Jackson-Ave-4A-Long-Island-City-NY-11101/2099062207_zpid/
+2728 Thomson Ave UNIT 814,Long Island City,NY,11101,1750000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-814-Long-Island-City-NY-11101/83051713_zpid/
+13-33 Jackson Ave # 10A,Long Island City,NY,11101,1758000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-33-Jackson-Ave-10A-Long-Island-City-NY-11101/2098737104_zpid/
+2721 44th Dr # 2202,Long Island City,NY,11101,1760000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-2202-Long-Island-City-NY-11101/2094017158_zpid/
+1050 Jackson Ave APT 4A,Long Island City,NY,11101,1075000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1050-Jackson-Ave-APT-4A-Long-Island-City-NY-11101/2093004019_zpid/
+2110 44th Dr # PHD,Long Island City,NY,11101,1215000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2110-44th-Dr-PHD-Long-Island-City-NY-11101/2094858807_zpid/
+2626 Jackson Ave # 2,Long Island City,NY,11101,1280000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2626-Jackson-Ave-2-Long-Island-City-NY-11101/2123998211_zpid/
+519 Borden Ave APT 1C,Long Island City,NY,11101,819000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/519-Borden-Ave-APT-1C-Long-Island-City-NY-11101/2107329975_zpid/
+2110 44th Dr # PHC,Long Island City,NY,11101,1385000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2110-44th-Dr-PHC-Long-Island-City-NY-11101/2093215535_zpid/
+2626 Jackson Ave # 02,Long Island City,NY,11101,1280000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2626-Jackson-Ave-02-Long-Island-City-NY-11101/2095382384_zpid/
+2728 Thomson Ave UNIT 429,Long Island City,NY,11101,1310000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-429-Long-Island-City-NY-11101/82782873_zpid/
+2721 44th Dr # PH21,Long Island City,NY,11101,1675000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-44th-Dr-PH21-Long-Island-City-NY-11101/2093112034_zpid/
+2728 Thomson Ave UNIT 542,Long Island City,NY,11101,1295000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-542-Long-Island-City-NY-11101/83050320_zpid/
+4260 Crescent St APT 9B,Long Island City,NY,11101,2595000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4260-Crescent-St-APT-9B-Long-Island-City-NY-11101/2095484821_zpid/
+2120 45th Ave,Long Island City,NY,11101,3300000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2120-45th-Ave-Long-Island-City-NY-11101/31933885_zpid/
+217 51st Ave APT 910,Long Island City,NY,11101,2700000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/217-51st-Ave-APT-910-Long-Island-City-NY-11101/89069392_zpid/
+1102 49th Ave APT 2A,Long Island City,NY,11101,1350000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1102-49th-Ave-APT-2A-Long-Island-City-NY-11101/94721244_zpid/
+2728 Thomson Ave UNIT 604,Long Island City,NY,11101,1688000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-604-Long-Island-City-NY-11101/83050527_zpid/
+2626 Jackson Ave APT 1002,Long Island City,NY,11101,1798000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2626-Jackson-Ave-APT-1002-Long-Island-City-NY-11101/94721562_zpid/
+2728 Thomson Ave UNIT 630,Long Island City,NY,11101,2175000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2728-Thomson-Ave-UNIT-630-Long-Island-City-NY-11101/83056051_zpid/
+1314 Jackson Ave APT 1W,Long Island City,NY,11101,875000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-Jackson-Ave-APT-1W-Long-Island-City-NY-11101/2113103366_zpid/
+31st St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075022_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Pearson St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075181_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31st St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075226_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+37th St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075366_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Thomson Ave UNIT 330,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075370_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+11th St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075378_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+34th Ave,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/190847439_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+35th St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190858385_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+11th St,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239577591_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+40th Ave,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240497781_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Jackson Ave # 12D,LONG ISLAND CITY,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242724842_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+50th Ave APT 5B,Long Island City,NY,11101,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241618428_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2542 18th St,Long Island City,NY,11102,1350000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2542-18th-St-Long-Island-City-NY-11102/31948796_zpid/
+2322 30th Rd # 21,Astoria,NY,11102,45000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2322-30th-Rd-21-Astoria-NY-11102/2091822700_zpid/
+2716 23rd St # 6,Astoria,NY,11102,1980000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2716-23rd-St-6-Astoria-NY-11102/2091849420_zpid/
+2617 12th St,Long Island City,NY,11102,1299000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2617-12th-St-Long-Island-City-NY-11102/31948938_zpid/
+3111 Newtown Ave # 6,Astoria,NY,11102,8200000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3111-Newtown-Ave-6-Astoria-NY-11102/2091833306_zpid/
+2322 30th Rd APT 4C,Long Island City,NY,11102,579000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2322-30th-Rd-APT-4C-Long-Island-City-NY-11102/31937932_zpid/
+1436 30th Rd,Long Island City,NY,11102,988800,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1436-30th-Rd-Long-Island-City-NY-11102/31937306_zpid/
+2310 30th Dr # 1,Astoria,NY,11102,1495000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2310-30th-Dr-1-Astoria-NY-11102/2092036086_zpid/
+2304 30th Ave # 23-4,Astoria,NY,11102,1580000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2304-30th-Ave-23-4-Astoria-NY-11102/2092053749_zpid/
+2540 Shore Blvd APT 11P,Astoria,NY,11102,430000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-Shore-Blvd-APT-11P-Astoria-NY-11102/2091969870_zpid/
+3045 23rd St,Astoria,NY,11102,1250000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3045-23rd-St-Astoria-NY-11102/2101941035_zpid/
+(Undisclosed Address),Astoria,NY,11102,1688000,NA,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Astoria-NY-11102/2096513507_zpid/
+928 Main Ave,Long Island City,NY,11102,850000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/928-Main-Ave-Long-Island-City-NY-11102/31936879_zpid/
+2531 27th St,Long Island City,NY,11102,1575000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2531-27th-St-Long-Island-City-NY-11102/31946062_zpid/
+1424 30th Ave,Long Island City,NY,11102,1500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1424-30th-Ave-Long-Island-City-NY-11102/31937343_zpid/
+3018 23rd St # 8,Astoria,NY,11102,3650000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3018-23rd-St-8-Astoria-NY-11102/2093060233_zpid/
+3079 32nd St APT 1R,Astoria,NY,11102,710000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3079-32nd-St-APT-1R-Astoria-NY-11102/2108072492_zpid/
+3079 32nd St,Long Island City,NY,11102,589000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3079-32nd-St-Long-Island-City-NY-11102/112509955_zpid/
+1149 Welling Ct,Astoria,NY,11102,2199000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1149-Welling-Ct-Astoria-NY-11102/2139883624_zpid/
+1424 30th Ave # 1-2,Astoria,NY,11102,1500000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1424-30th-Ave-1-2-Astoria-NY-11102/2092163587_zpid/
+2339 30th Dr # 3,Astoria,NY,11102,1575000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2339-30th-Dr-3-Astoria-NY-11102/2092281543_zpid/
+2542 22nd St,Long Island City,NY,11102,1229000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2542-22nd-St-Long-Island-City-NY-11102/31948229_zpid/
+2631 3rd St,Astoria,NY,11102,3400000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2631-3rd-St-Astoria-NY-11102/2139219553_zpid/
+2606 24th Ave,Long Island City,NY,11102,1900000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2606-24th-Ave-Long-Island-City-NY-11102/31946486_zpid/
+2618 14th Pl,Long Island City,NY,11102,1599000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2618-14th-Pl-Long-Island-City-NY-11102/31948928_zpid/
+3044 29th St APT 7V,Long Island City,NY,11102,673000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3044-29th-St-APT-7V-Long-Island-City-NY-11102/31938262_zpid/
+2404 23rd St,Long Island City,NY,11102,1049000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2404-23rd-St-Long-Island-City-NY-11102/31947592_zpid/
+3080 21st St PH A,Astoria,NY,11102,950000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3080-21st-St-PH-A-Astoria-NY-11102/2107341753_zpid/
+1443 28th Ave APT 2F,Long Island City,NY,11102,599000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1443-28th-Ave-APT-2F-Long-Island-City-NY-11102/68315159_zpid/
+1211 30th Ave,Astoria,NY,11102,1380000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1211-30th-Ave-Astoria-NY-11102/2093080769_zpid/
+2328 30th Dr APT 5R,Astoria,NY,11102,739000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2328-30th-Dr-APT-5R-Astoria-NY-11102/119532081_zpid/
+1456 30th Ave,Long Island City,NY,11102,2499000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1456-30th-Ave-Long-Island-City-NY-11102/31937357_zpid/
+3080 21st St # PHA,Astoria,NY,11102,950000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3080-21st-St-PHA-Astoria-NY-11102/2107349827_zpid/
+2540 Shore Blvd APT 3M,Astoria,NY,11102,614990,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-Shore-Blvd-APT-3M-Astoria-NY-11102/2104291582_zpid/
+2540 Shore Blvd # 15N,Astoria,NY,11102,634590,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-Shore-Blvd-15N-Astoria-NY-11102/2096980228_zpid/
+1844 26th Rd,Astoria,NY,11102,2000000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1844-26th-Rd-Astoria-NY-11102/2092927328_zpid/
+2322 30th Rd APT 8A,Long Island City,NY,11102,879000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2322-30th-Rd-APT-8A-Long-Island-City-NY-11102/31937966_zpid/
+3079 32nd St APT 2R,Astoria,NY,11102,625000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3079-32nd-St-APT-2R-Astoria-NY-11102/2116027358_zpid/
+2540 Shore Blvd APT 6C,Astoria,NY,11102,688000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-Shore-Blvd-APT-6C-Astoria-NY-11102/2121019979_zpid/
+9th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075291_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+14th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075330_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Astoria Blvd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075336_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Astoria Blvd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075388_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30th Ave,Astoria,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075396_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+8th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075422_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+26th Ave,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075489_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+32nd St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075493_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30th Ave,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/219454608_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30th Rd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241546291_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30th Rd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/243157122_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Welling Ct,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075382_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30th Rd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241546291_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+21st St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242724959_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Astoria Blvd,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243443369_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+12th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241618371_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Welling Ct,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241618373_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+26th Ave,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241546290_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+21st St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075196_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Crescent St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075216_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+14th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075188_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+29th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075245_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9th St,Long Island City,NY,11102,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075291_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3067 49th St # 1,Astoria,NY,11103,2579000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3067-49th-St-1-Astoria-NY-11103/2091871209_zpid/
+2567 44th St,Long Island City,NY,11103,1349000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2567-44th-St-Long-Island-City-NY-11103/31942004_zpid/
+2444 38th St,Long Island City,NY,11103,1699000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2444-38th-St-Long-Island-City-NY-11103/31940387_zpid/
+3169 43rd St,Long Island City,NY,11103,1499000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3169-43rd-St-Long-Island-City-NY-11103/31941391_zpid/
+3010 42nd St,Astoria,NY,11103,2195000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3010-42nd-St-Astoria-NY-11103/2107846573_zpid/
+3286 41st St APT 4C,Long Island City,NY,11103,679000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3286-41st-St-APT-4C-Long-Island-City-NY-11103/89027886_zpid/
+3013 37th St,Long Island City,NY,11103,849500,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3013-37th-St-Long-Island-City-NY-11103/31940695_zpid/
+3717 28th Ave,Astoria,NY,11103,2490000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3717-28th-Ave-Astoria-NY-11103/2100940912_zpid/
+2465 38th St APT 10A,Astoria,NY,11103,620000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2465-38th-St-APT-10A-Astoria-NY-11103/2092097761_zpid/
+2563 38th St # 1,Astoria,NY,11103,749000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1-Astoria-NY-11103/2093878541_zpid/
+(Undisclosed Address),Astoria,NY,11103,2500000,NA,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Astoria-NY-11103/2103065114_zpid/
+4405 25th Ave,Long Island City,NY,11103,1425000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4405-25th-Ave-Long-Island-City-NY-11103/31942136_zpid/
+2563 38th St # 1A,Astoria,NY,11103,760000,NA,NA,NA,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1A-Astoria-NY-11103/2093802274_zpid/
+2563 38th St # 1B,Astoria,NY,11103,859000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2563-38th-St-1B-Astoria-NY-11103/2093842733_zpid/
+(Undisclosed Address),Long Island City,NY,11103,1299000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/(Undisclosed-Address)-Long-Island-City-NY-11103/2108979932_zpid/
+3069 47th St,Long Island City,NY,11103,1695000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3069-47th-St-Long-Island-City-NY-11103/31942538_zpid/
+2415 45th St,Astoria,NY,11103,2799000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2415-45th-St-Astoria-NY-11103/2092676412_zpid/
+2416 42nd St,Long Island City,NY,11103,1225000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2416-42nd-St-Long-Island-City-NY-11103/31941165_zpid/
+3063 38th St # PHA,Astoria,NY,11103,1082000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3063-38th-St-PHA-Astoria-NY-11103/2092996246_zpid/
+3063 38th St STE A,Astoria,NY,11103,1082000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3063-38th-St-STE-A-Astoria-NY-11103/2093103009_zpid/
+41st St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075477_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+42nd St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241618370_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Steinway St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240442109_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+44th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241947487_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240487187_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240487187_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+48th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243213378_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+36th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243213379_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241993031_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+42nd St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241993032_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/243163798_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+38th St,Long Island City,NY,11103,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075309_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3933 48th St,Long Island City,NY,11104,1385000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3933-48th-St-Long-Island-City-NY-11104/31934239_zpid/
+4333 42nd St APT 3B,Long Island City,NY,11104,553000,NA,NA,NA,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4333-42nd-St-APT-3B-Long-Island-City-NY-11104/112086022_zpid/
+5035 41st St,Sunnyside,NY,11104,1429000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5035-41st-St-Sunnyside-NY-11104/2146985559_zpid/
+4333 42nd St APT 3A,Long Island City,NY,11104,553000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-42nd-St-APT-3A-Long-Island-City-NY-11104/112086021_zpid/
+4601 39th Ave APT 509,Sunnyside,NY,11104,180000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4601-39th-Ave-APT-509-Sunnyside-NY-11104/2093274241_zpid/
+4310 44th St APT 5A,Sunnyside,NY,11104,450000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4310-44th-St-APT-5A-Sunnyside-NY-11104/72648578_zpid/
+4755 39th Pl APT 6G,Sunnyside,NY,11104,1200000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-6G-Sunnyside-NY-11104/31935519_zpid/
+4333 48th St APT 5G,Long Island City,NY,11104,590000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-APT-5G-Long-Island-City-NY-11104/93392742_zpid/
+4755 39th Pl APT 2E,Long Island City,NY,11104,518000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-2E-Long-Island-City-NY-11104/31935503_zpid/
+4755 39th Pl APT 4C,Long Island City,NY,11104,568000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4755-39th-Pl-APT-4C-Long-Island-City-NY-11104/31935494_zpid/
+41st St,Sunnyside,NY,11104,2700000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/41st-St-Sunnyside-NY-11104/2103651675_zpid/
+4840 40th St,Long Island City,NY,11104,1350000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4840-40th-St-Long-Island-City-NY-11104/31935656_zpid/
+5058 42nd St,Sunnyside,NY,11104,1278000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5058-42nd-St-Sunnyside-NY-11104/2110007769_zpid/
+4115 39th Pl,Long Island City,NY,11104,3100000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4115-39th-Pl-Long-Island-City-NY-11104/31935326_zpid/
+4739 40th St APT 4C,Sunnyside,NY,11104,549999,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4739-40th-St-APT-4C-Sunnyside-NY-11104/2093296574_zpid/
+4142 42nd St APT 2A,Sunnyside,NY,11104,425000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4142-42nd-St-APT-2A-Sunnyside-NY-11104/2092434990_zpid/
+4310 Skillman Ave,Sunnyside,NY,11104,1598000,NA,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4310-Skillman-Ave-Sunnyside-NY-11104/89067101_zpid/
+47-30 48th St,Sunnyside,NY,11104,2390000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/47-30-48th-St-Sunnyside-NY-11104/2093630287_zpid/
+47-21 49th St,Sunnyside,NY,11104,1648000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/47-21-49th-St-Sunnyside-NY-11104/2095131164_zpid/
+4333 48th St APT 4G,Long Island City,NY,11104,589888,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-APT-4G-Long-Island-City-NY-11104/94721654_zpid/
+4307 48th St # 5 A,Sunnyside,NY,11104,558000,NA,NA,NA,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4307-48th-St-5-A-Sunnyside-NY-11104/2098336552_zpid/
+3906 44th St,Long Island City,NY,11104,1518000,NA,NA,NA,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3906-44th-St-Long-Island-City-NY-11104/31935215_zpid/
+4821 40th St APT 3D,Sunnyside,NY,11104,410000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/4821-40th-St-APT-3D-Sunnyside-NY-11104/81959828_zpid/
+4326 49th St,Sunnyside,NY,11104,5500000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4326-49th-St-Sunnyside-NY-11104/2105178029_zpid/
+4127 39th Pl,Sunnyside,NY,11104,1500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4127-39th-Pl-Sunnyside-NY-11104/2097973923_zpid/
+4127 39th Pl,Sunnyside,NY,11104,1500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4127-39th-Pl-Sunnyside-NY-11104/2097973923_zpid/
+4333 48th St,Long Island City,NY,11104,589888,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4333-48th-St-Long-Island-City-NY-11104/94720027_zpid/
+45th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075446_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+43rd Ave,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/239999093_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+39th Ave,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242724867_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+40th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/242978750_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+41st St APT 404,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154074917_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+39th Ave,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075055_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+39th Pl,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075266_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+41st St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075238_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+39th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075276_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+47th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075376_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+50th Ave,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075383_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+52nd St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075423_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+40th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075444_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+49th St,Long Island City,NY,11104,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241627303_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2054 33rd St # 1,Astoria,NY,11105,1388888,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2054-33rd-St-1-Astoria-NY-11105/2102259844_zpid/
+2135 29th St,Long Island City,NY,11105,1595000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2135-29th-St-Long-Island-City-NY-11105/31946252_zpid/
+2147 33rd St # G,Astoria,NY,11105,295000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-G-Astoria-NY-11105/2091871215_zpid/
+2147 33rd St APT 1G,Astoria,NY,11105,295000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-1G-Astoria-NY-11105/115826808_zpid/
+2128 35th St APT 4A,Astoria,NY,11105,529000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2128-35th-St-APT-4A-Astoria-NY-11105/2092027208_zpid/
+2139 23rd St,Long Island City,NY,11105,1175000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2139-23rd-St-Long-Island-City-NY-11105/31947946_zpid/
+2077 45th St,Astoria,NY,11105,1598888,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2077-45th-St-Astoria-NY-11105/2146978447_zpid/
+2361 19th St,Astoria,NY,11105,1799999,NA,NA,NA,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2361-19th-St-Astoria-NY-11105/31948395_zpid/
+2710 23rd Ave,Long Island City,NY,11105,1800000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2710-23rd-Ave-Long-Island-City-NY-11105/31946526_zpid/
+2356 21st St,Long Island City,NY,11105,1000000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2356-21st-St-Long-Island-City-NY-11105/31948404_zpid/
+2158 35th St APT 4C,Astoria,NY,11105,449000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-4C-Astoria-NY-11105/2094401621_zpid/
+2106 23rd St,Long Island City,NY,11105,940000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-23rd-St-Long-Island-City-NY-11105/31948046_zpid/
+2105 33rd St APT 5H,Astoria,NY,11105,449000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2105-33rd-St-APT-5H-Astoria-NY-11105/114163077_zpid/
+2106 35th St,Astoria,NY,11105,339000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-35th-St-Astoria-NY-11105/2098946839_zpid/
+2147 33rd St APT 5E,Astoria,NY,11105,249000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-5E-Astoria-NY-11105/2093680711_zpid/
+2139 38th St,Long Island City,NY,11105,1059000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2139-38th-St-Long-Island-City-NY-11105/31944739_zpid/
+2137 33rd St APT 3F,Astoria,NY,11105,395000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2137-33rd-St-APT-3F-Astoria-NY-11105/2094662128_zpid/
+2137 33rd St APT 3E,Astoria,NY,11105,576000,NA,NA,NA,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/2137-33rd-St-APT-3E-Astoria-NY-11105/2118856379_zpid/
+2355 32nd St,Long Island City,NY,11105,1399000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2355-32nd-St-Long-Island-City-NY-11105/31945900_zpid/
+2311 Ditmars Blvd,Astoria,NY,11105,1888888,NA,NA,NA,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2311-Ditmars-Blvd-Astoria-NY-11105/2099075333_zpid/
+2112 36th St,Long Island City,NY,11105,1595000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2112-36th-St-Long-Island-City-NY-11105/31945342_zpid/
+4716 Ditmars Blvd,Long Island City,NY,11105,1175000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4716-Ditmars-Blvd-Long-Island-City-NY-11105/31943292_zpid/
+1848 21st Dr,Long Island City,NY,11105,1975000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1848-21st-Dr-Long-Island-City-NY-11105/31948728_zpid/
+2060 Steinway St # 12,Astoria,NY,11105,1500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2060-Steinway-St-12-Astoria-NY-11105/2093849219_zpid/
+2147 33rd St,Astoria,NY,11105,379000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-Astoria-NY-11105/2096924196_zpid/
+2147 33rd St APT 3H,Astoria,NY,11105,349000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-3H-Astoria-NY-11105/124875841_zpid/
+2370 26th St,Long Island City,NY,11105,1950000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2370-26th-St-Long-Island-City-NY-11105/31947164_zpid/
+2051 36th St,Long Island City,NY,11105,1439000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2051-36th-St-Long-Island-City-NY-11105/31945384_zpid/
+2231 26th St,Long Island City,NY,11105,1200000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2231-26th-St-Long-Island-City-NY-11105/31946690_zpid/
+1841 21st Dr,Astoria,NY,11105,1349000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1841-21st-Dr-Astoria-NY-11105/31948671_zpid/
+2177 33rd St APT 1B,Astoria,NY,11105,200000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2177-33rd-St-APT-1B-Astoria-NY-11105/114407534_zpid/
+2214 49th St,Long Island City,NY,11105,1459000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2214-49th-St-Long-Island-City-NY-11105/31943246_zpid/
+2120 45th St,Long Island City,NY,11105,1129000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2120-45th-St-Long-Island-City-NY-11105/31943992_zpid/
+2106 35th St APT 2F,Astoria,NY,11105,319000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2106-35th-St-APT-2F-Astoria-NY-11105/2092275496_zpid/
+2384 24th St # 2384,Astoria,NY,11105,2199000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2384-24th-St-2384-Astoria-NY-11105/2092158950_zpid/
+2138 35th St APT 2E,Astoria,NY,11105,225000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2138-35th-St-APT-2E-Astoria-NY-11105/114407525_zpid/
+2065 21st St # 1,Astoria,NY,11105,1249000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2065-21st-St-1-Astoria-NY-11105/2092461829_zpid/
+2128 35th St APT 4C,Astoria,NY,11105,469000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2128-35th-St-APT-4C-Astoria-NY-11105/2093317843_zpid/
+2147 33rd St APT 5C,Astoria,NY,11105,379000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2147-33rd-St-APT-5C-Astoria-NY-11105/115826812_zpid/
+2144 48th St,Long Island City,NY,11105,1029000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2144-48th-St-Long-Island-City-NY-11105/31943405_zpid/
+2055 47th St,Long Island City,NY,11105,1250000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2055-47th-St-Long-Island-City-NY-11105/31943490_zpid/
+2020 Steinway St APT 2F,Astoria,NY,11105,1900000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2020-Steinway-St-APT-2F-Astoria-NY-11105/2093789070_zpid/
+2357 31st St,Long Island City,NY,11105,1999888,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2357-31st-St-Long-Island-City-NY-11105/31945853_zpid/
+2169 48th St,Long Island City,NY,11105,1299000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2169-48th-St-Long-Island-City-NY-11105/31943318_zpid/
+2211 41st St,Long Island City,NY,11105,1275000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2211-41st-St-Long-Island-City-NY-11105/31944251_zpid/
+2138 35th St APT 3C,Astoria,NY,11105,465000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2138-35th-St-APT-3C-Astoria-NY-11105/2092107386_zpid/
+2311 21st Ave APT 1K,Long Island City,NY,11105,655000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2311-21st-Ave-APT-1K-Long-Island-City-NY-11105/112517713_zpid/
+2158 35th St APT 3B,Astoria,NY,11105,479000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-3B-Astoria-NY-11105/2095030067_zpid/
+2043 42nd St,Long Island City,NY,11105,1399000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2043-42nd-St-Long-Island-City-NY-11105/64789186_zpid/
+2405 23rd Ave,Long Island City,NY,11105,1299000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2405-23rd-Ave-Long-Island-City-NY-11105/31947375_zpid/
+2158 35th St APT 1C,Astoria,NY,11105,335000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-1C-Astoria-NY-11105/79728451_zpid/
+2177 33rd St APT 4D,Astoria,NY,11105,275000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2177-33rd-St-APT-4D-Astoria-NY-11105/114407536_zpid/
+2212 41st St,Long Island City,NY,11105,1349000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2212-41st-St-Long-Island-City-NY-11105/31944267_zpid/
+2128 35th St # 2G,Astoria,NY,11105,469000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2128-35th-St-2G-Astoria-NY-11105/2096486739_zpid/
+2158 35th St APT 5D,Astoria,NY,11105,278800,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2158-35th-St-APT-5D-Astoria-NY-11105/83056664_zpid/
+2162 36th St,Long Island City,NY,11105,2100000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2162-36th-St-Long-Island-City-NY-11105/31945362_zpid/
+35th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075197_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+38th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075267_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+21st Rd,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242978746_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+32nd St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242978747_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Steinway St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242978748_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+19th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075325_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31st St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075341_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+41st St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075347_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+35th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075350_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075369_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+32nd St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075381_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+43rd St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075484_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+48th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241618369_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+21st St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/190847438_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+41st St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/219454607_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+27th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/219854025_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+45th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/240000884_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+43rd St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240442110_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Shore Blvd,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243445952_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+38th St,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075267_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+21st Rd,Long Island City,NY,11105,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242978746_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1417 31st Ave APT 4C,Astoria,NY,11106,329000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1417-31st-Ave-APT-4C-Astoria-NY-11106/89229982_zpid/
+3269 33rd St # 3,Astoria,NY,11106,2450000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3269-33rd-St-3-Astoria-NY-11106/2095744644_zpid/
+3269 33rd St,Long Island City,NY,11106,2450000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3269-33rd-St-Long-Island-City-NY-11106/31939509_zpid/
+3275 34th St,Long Island City,NY,11106,1599000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3275-34th-St-Long-Island-City-NY-11106/31939556_zpid/
+2117 31st Ave # 6H,Astoria,NY,11106,799000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-6H-Astoria-NY-11106/2091920029_zpid/
+3135 31st St UNIT 308,Astoria,NY,11106,659000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3135-31st-St-UNIT-308-Astoria-NY-11106/2131812095_zpid/
+3624 11th St # 36-24,Astoria,NY,11106,980000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3624-11th-St-36-24-Astoria-NY-11106/2091920035_zpid/
+2117 31st Ave # PHC,Astoria,NY,11106,793200,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-PHC-Astoria-NY-11106/2091920033_zpid/
+2117 31st Ave # 4E,Astoria,NY,11106,859000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-4E-Astoria-NY-11106/2091920031_zpid/
+2117 31st Ave # PHE,Astoria,NY,11106,899000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-PHE-Astoria-NY-11106/2091921716_zpid/
+2540 31st Ave APT 2S,Astoria,NY,11106,365000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-31st-Ave-APT-2S-Astoria-NY-11106/2092024436_zpid/
+2125 31st Ave # H1,Astoria,NY,11106,2499000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2125-31st-Ave-H1-Astoria-NY-11106/2091966970_zpid/
+3343 14th St APT 15D,Astoria,NY,11106,585000,NA,NA,NA,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3343-14th-St-APT-15D-Astoria-NY-11106/79740920_zpid/
+31st Ave,Astoria,NY,11106,499000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/31st-Ave-Astoria-NY-11106/2136987727_zpid/
+3555 29th St APT 6C,Astoria,NY,11106,339000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3555-29th-St-APT-6C-Astoria-NY-11106/79729264_zpid/
+3355 14th St APT 10A,Long Island City,NY,11106,549000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/3355-14th-St-APT-10A-Long-Island-City-NY-11106/2092398653_zpid/
+3361 10th St,Long Island City,NY,11106,830000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3361-10th-St-Long-Island-City-NY-11106/31936060_zpid/
+3371 10th St,Long Island City,NY,11106,959000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3371-10th-St-Long-Island-City-NY-11106/31936056_zpid/
+2344 31st Dr,Long Island City,NY,11106,2400000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2344-31st-Dr-Long-Island-City-NY-11106/31937785_zpid/
+2510 31st Ave APT 4L,Long Island City,NY,11106,599000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2510-31st-Ave-APT-4L-Long-Island-City-NY-11106/31938354_zpid/
+3113 12th St,Long Island City,NY,11106,1150000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3113-12th-St-Long-Island-City-NY-11106/31937029_zpid/
+2540 31st Ave APT 2H,Astoria,NY,11106,599000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/2540-31st-Ave-APT-2H-Astoria-NY-11106/83127209_zpid/
+3135 32nd St,Long Island City,NY,11106,1349000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3135-32nd-St-Long-Island-City-NY-11106/31939316_zpid/
+3417 34th St,Long Island City,NY,11106,1299000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3417-34th-St-Long-Island-City-NY-11106/31939980_zpid/
+3540 30th St APT 3F,Astoria,NY,11106,1150000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3540-30th-St-APT-3F-Astoria-NY-11106/117440019_zpid/
+3540 30th St APT 3F,Astoria,NY,11106,1150000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3540-30th-St-APT-3F-Astoria-NY-11106/117440019_zpid/
+2120 Broadway,Long Island City,NY,11106,3500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2120-Broadway-Long-Island-City-NY-11106/31937601_zpid/
+1214 31st Ave APT 9,Astoria,NY,11106,1488888,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1214-31st-Ave-APT-9-Astoria-NY-11106/2092462188_zpid/
+2117 31st Ave # 3J,Astoria,NY,11106,799000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-3J-Astoria-NY-11106/2092426522_zpid/
+3426 29th St,Long Island City,NY,11106,1980000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3426-29th-St-Long-Island-City-NY-11106/31938515_zpid/
+3462 10th St,Long Island City,NY,11106,1860000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3462-10th-St-Long-Island-City-NY-11106/31936126_zpid/
+3540 30th St,Astoria,NY,11106,1499000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3540-30th-St-Astoria-NY-11106/117614448_zpid/
+3540 30th St APT 1H,Astoria,NY,11106,1499000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3540-30th-St-APT-1H-Astoria-NY-11106/117439683_zpid/
+3549 10th St,Long Island City,NY,11106,2000000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3549-10th-St-Long-Island-City-NY-11106/31936167_zpid/
+2323 31st Ave # 2AF,Astoria,NY,11106,435000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2323-31st-Ave-2AF-Astoria-NY-11106/2092869740_zpid/
+2117 31st Ave # 2C,Astoria,NY,11106,694050,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2117-31st-Ave-2C-Astoria-NY-11106/2092416237_zpid/
+3141 12th St,Long Island City,NY,11106,3500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3141-12th-St-Long-Island-City-NY-11106/31937041_zpid/
+1444 31st Dr,Long Island City,NY,11106,1550000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1444-31st-Dr-Long-Island-City-NY-11106/31937183_zpid/
+2530 Broadway,Long Island City,NY,11106,3500000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2530-Broadway-Long-Island-City-NY-11106/31938401_zpid/
+3454 10th St,Long Island City,NY,11106,1550000,NA,NA,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3454-10th-St-Long-Island-City-NY-11106/31936125_zpid/
+1124 31st Ave,Long Island City,NY,11106,1860000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1124-31st-Ave-Long-Island-City-NY-11106/112509999_zpid/
+3426 31st St # 1,Astoria,NY,11106,1249000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3426-31st-St-1-Astoria-NY-11106/2092615849_zpid/
+3540 30th St APT 2H,Astoria,NY,11106,1498000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3540-30th-St-APT-2H-Astoria-NY-11106/117614752_zpid/
+23rd St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075453_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Crescent St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240487186_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+34th Ave,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075254_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9th St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241993034_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+35th Ave,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242978749_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+14th St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242724960_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Broadway APT 2F,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075117_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31st Ave,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075070_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+33RD Ave,LONG ISLAND CITY,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075373_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9th St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241993034_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31st Ave,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075430_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31st Dr,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075448_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Crescent St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/241530126_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+23rd St,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075453_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Broadway APT 2F,Long Island City,NY,11106,NA,NA,NA,NA,NA,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/154075117_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+474 48th Ave APT 25N,Long Island City,NY,11109,828000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-25N-Long-Island-City-NY-11109/2091806427_zpid/
+474 48th Ave APT 18K,Long Island City,NY,11109,548000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-18K-Long-Island-City-NY-11109/2092081713_zpid/
+474 48th Ave APT 12K,Long Island City,NY,11109,585000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-12K-Long-Island-City-NY-11109/79743811_zpid/
+474 48th Ave,Long Island City,NY,11109,600000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-Long-Island-City-NY-11109/62741339_zpid/
+474 48th Ave APT 10B,Long Island City,NY,11109,875000,NA,NA,NA,NA,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-10B-Long-Island-City-NY-11109/2100974186_zpid/
+474 48th Ave # 35EF,Long Island City,NY,11109,1200000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-35EF-Long-Island-City-NY-11109/2092121169_zpid/
+4630 Center Blvd PH 5,Long Island City,NY,11109,4250000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-PH-5-Long-Island-City-NY-11109/93392709_zpid/
+4630 Center Blvd APT 210,Long Island City,NY,11109,1198000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-210-Long-Island-City-NY-11109/94721616_zpid/
+474 48th Ave APT 11L,Long Island City,NY,11109,640000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-11L-Long-Island-City-NY-11109/81959827_zpid/
+474 48th Ave APT 39D,Long Island City,NY,11109,599000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-39D-Long-Island-City-NY-11109/2092860405_zpid/
+474 48th Ave APT 30L,Long Island City,NY,11109,918000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-30L-Long-Island-City-NY-11109/87800690_zpid/
+4630 Center Blvd APT 612,Long Island City,NY,11109,2300000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-612-Long-Island-City-NY-11109/93392676_zpid/
+4630 Center Blvd APT 1701,Long Island City,NY,11109,2498000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-1701-Long-Island-City-NY-11109/94721697_zpid/
+474 48th Ave APT 10J,Long Island City,NY,11109,650000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-10J-Long-Island-City-NY-11109/87618007_zpid/
+474 48th Ave # 11D,Long Island City,NY,11109,540000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-11D-Long-Island-City-NY-11109/2097321604_zpid/
+474 48th Ave APT 35F,Long Island City,NY,11109,650000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-35F-Long-Island-City-NY-11109/125791611_zpid/
+4630 Center Blvd APT 1211,Long Island City,NY,11109,2515000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-1211-Long-Island-City-NY-11109/94720758_zpid/
+474 48th Ave APT 27E,Long Island City,NY,11109,528000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-27E-Long-Island-City-NY-11109/111711488_zpid/
+474 48th Ave APT 14N,Long Island City,NY,11109,599999,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-14N-Long-Island-City-NY-11109/109178497_zpid/
+4630 Center Blvd # PHA,Long Island City,NY,11109,3998000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-PHA-Long-Island-City-NY-11109/2108041493_zpid/
+4630 Center Blvd APT 1011,Long Island City,NY,11109,2449000,NA,NA,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4630-Center-Blvd-APT-1011-Long-Island-City-NY-11109/94720034_zpid/
+474 48th Ave APT 25M,Long Island City,NY,11109,575000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-25M-Long-Island-City-NY-11109/80276503_zpid/
+474 48th Ave APT 33G,Long Island City,NY,11109,539000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-33G-Long-Island-City-NY-11109/2092747917_zpid/
+474 48th Ave APT 11G,Long Island City,NY,11109,610000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-11G-Long-Island-City-NY-11109/2092575595_zpid/
+474 48th Ave APT 33E,Long Island City,NY,11109,579000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-33E-Long-Island-City-NY-11109/2107583620_zpid/
+474 48th Ave APT 35E,Long Island City,NY,11109,550000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-35E-Long-Island-City-NY-11109/2092439772_zpid/
+474 48th Ave APT 30F,Long Island City,NY,11109,648000,NA,NA,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/474-48th-Ave-APT-30F-Long-Island-City-NY-11109/79734158_zpid/
+48th Ave,Long Island City,NY,11109,NA,NA,NA,NA,NA,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/154075417_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
