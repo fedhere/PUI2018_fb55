@@ -9,7 +9,7 @@ Optional: [Is Seattle Really Seeing an Uptick In Cycling?](https://jakevdp.githu
 
 ## ASSIGNMENTS:
 
-### Assignment 1. Work from the [skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW11_fb55/subway_timeseries_instructions.ipynb) with inline instructions.
+### Assignment 1. Work from the [skeleton notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW11_fb55/subway_timeseries_instructions2.ipynb) with inline instructions.
 **Turn in as a notebook on your repo, as usual**, you can work in groups as usual, have a statement of the work balance in the group as usual.
 
 ### Assignment 2. Improve your plot from HW8 based on the feedback you recieved from your classmates (let me know if you did not recieve feedback and I will comment on your original plot)
