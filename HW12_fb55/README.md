@@ -24,7 +24,7 @@ Keep in mind that we will look for possible cases of plagiarism, and if the code
 **Assignment 1.** 
 Find periodicity with Fourier Transforms in the time series from [HW11](https://github.com/fedhere/PUI2018_fb55/new/master/HW11_fb55.). Follow instructions in [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW12_fb55/subway_timeseries_instructions_part2.ipynb)
 
-**Assignment 2. **
+**Assignment 2.**
 
 Cluster zipcodes based on the economic development (business counts) in time for 1993-2006
 Clustering often takes time, particularly hierarchical clustering. Dont start at the last minute!
