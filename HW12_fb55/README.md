@@ -4,7 +4,7 @@ Due Tue 12/13th at 11:59PM for both sessions.
 
 IMPORTANT NOTE: on this homework on you are graded on PEP8 compliance as well!
 
-Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
+Use https://github.com/fedhere/PUI2018_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
 
 
 # ASSIGNED READING:
@@ -22,6 +22,7 @@ Keep in mind that we will look for possible cases of plagiarism, and if the code
 
 
 **Assignment 1.** 
+
 Find periodicity with Fourier Transforms in the time series from [HW11](https://github.com/fedhere/PUI2018_fb55/new/master/HW11_fb55.). Follow instructions in [notebook](https://github.com/fedhere/PUI2018_fb55/blob/master/HW12_fb55/subway_timeseries_instructions_part2.ipynb)
 
 **Assignment 2.**
