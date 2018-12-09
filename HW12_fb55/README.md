@@ -1,4 +1,4 @@
-Due Tue 12/13th at 11:59PM for both sessions. 
+Due Thu 12/13th at 11:59PM for both sessions. 
 
 **Extensions cannot be requested for this homework (since the deadline is extended and the final begins 24 hours after the deadeline)**
 
