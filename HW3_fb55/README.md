@@ -46,7 +46,7 @@ familiarize yourself with all the fields of the response.
 
 Grading: turn in the screenshot in your repo README.md and make sure your HW3_fb55 repo does not show any trace of the history of the test.csv file
 
-# Assignment 2: Read CSV files with pandas and ise NYC open data portal
+# Assignment 2: Read CSV files with pandas and use NYC open data portal
 
 Choose a [dataset from NYC Open Data](https://opendata.cityofnewyork.us/) that is available in CSV format (look at the format labels in the list of datasets or use CSV in the search bar). Chose one that has _at least_ 2 __numerical value__ columns. If it is a CSV file you may be able to directly read it in with pandas 
 ```
